@@ -2,7 +2,7 @@
 raw data and R code for "Building Visualizations Using City Open Data: Philly School Comparisons"
 
 #Replication
-Clone the repo and run the R scripts of interest:
+Clone the repo and run the R scripts of interest (using R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"):
 
 #To make the violin plot
 Run violin_plot.R
