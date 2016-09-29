@@ -1,0 +1,558 @@
+﻿X,Y,OBJECTID,AUN,SCHOOL_NUM,LOCATION_ID,FACIL_NAME,FACILNAME_LABEL,FACIL_ADDRESS,ZIPCODE,FACIL_TELEPHONE,ACTIVE,GRADE_LEVEL,GRADE_ORG,ENROLLMENT,TYPE,TYPE_SPECIFIC
+-75.196545533108392,40.046268994575442,1,126515001,3712,6250,"Henry, Charles W.","Henry, Charles W.",601 Carpenter La.,19119 - 3405,951-4006,Open,Elem/Middle,K-8,478,District,District
+-75.105179495306473,40.03431080480901,2,126517442,8251,7240,Universal Creighton Charter School,Universal Creighton Charter School,5401Tabor Ave,19120 - 3614,(215)537-2531,Open,Elem/Middle,K-8,895,Charter,Charter
+-75.087421348422097,40.014766709884498,3,126515001,3797,7360,"Marshall, John","Marshall, John",4500 Griscom St.,19124 - 3653,537-2521,Open,Elementary School,K-5,404,District,District
+-75.137617840911361,40.015084663054594,4,126515001,6534,7380,"McClure, Alexander K.","McClure, Alexander K.",4134 N  06th ST.,19140 - 2510,456-3001,Open,Elementary School,K-5,610,District,District
+-75.074372031403016,40.012792653053502,5,126515001,7242,7110,"Harding, Warren G.","Harding, Warren G.",2000 Wakeling St.,19124,537-2528,Open,Middle School,6-8,756,District,District
+-75.120912285453414,39.99692395533377,6,126515001,3688,5260,"Elkin, Lewis","Elkin, Lewis","3199 ""D"" St.",19134 - 3199,291-4701,Open,Elementary School,K-4,919,District,District
+-75.166994704375213,39.994863910795338,7,126515001,3841,4060,"Dobbins, Murrell (CTE)","Dobbins, Murrell (CTE)",2100-50 W Lehigh Ave.,19132,227-4421,Open,High School,9-12,492,District,District
+-75.112300074330122,39.992827162307073,8,126515001,3842,5060,"Mastbaum, Jules E. (CTE)","Mastbaum, Jules E. (CTE)",3116 Frankford Ave,19134,291-4703,Open,High School,9-12,594,District,District
+-75.14518965210074,39.989243841774844,9,126515001,5125,5320,"Hartranft, John F.","Hartranft, John F.",720 West Cumberland St.,19133,684-5088,Open,Elementary School,K-8,535,District,District
+-75.243688142656936,39.952954263413844,10,126515001,3601,1230,"Bryant, William Cullen","Bryant, William Cullen",6001 Cedar Ave.,19143 - 1133,471-2910,Open,Elementary School,K-8,490,District,District
+-75.170885936021634,39.940382550793771,11,126515001,3635,2450,"Stanton, Edwin M.","Stanton, Edwin M.",1620 Christian St,19146 - 1908,875-3185,Open,Elem/Middle,K-8,317,District,District
+-75.239795206708663,39.927288695787901,12,126515001,3602,1250,"Catherine, Joseph","Catherine, Joseph",6600 Chester Ave.,19142 - 1638,727-2155,Open,Elementary School,K-5,615,District,District
+-75.150853241720668,39.92377287691869,13,126515001,3818,2160,"Furness, Horace","Furness, Horace",1900 S. 3rd St.,19148,952-6226,Open,High School,9-12,695,District,District
+-75.208128168344757,39.952696489774105,14,126515001,7706,1280,Penn Alexander Sch,Penn Alexander Sch,4201 Spruce Street,19104 - 4022,823-5465,Open,Elem/Middle,K-8,564,District,District
+-75.023576334902955,40.11419174238457,15,126515001,4961,8440,"Loesche, William H.","Loesche, William H.",595 Tomlinson Rd.,19116 - 3332,961-2000,Open,Elementary School,K-5,774,District,District
+-75.013968768662195,40.092042419214366,16,126515001,7072,8090,Swenson Arts and Technology Center (CTE),Swenson Arts & Tech Ctr,2750 Red Lion Rd.,19114,961-2009,Open,High School,9-12,618,District,District
+-75.052528861521239,40.09125312887388,17,126515001,6824,8160,"Baldi, C. C. A.","Baldi, C. C. A.",8801 Verree Rd.,19115,961-2003,Open,Middle School,6-8,1209,District,District
+-75.084132856751509,40.038902272479895,18,126515001,7230,7220,"Carnell, Laura H.","Carnell, Laura H.",6101 Summerdale Ave.,19111 - 5826,537-2527,Open,Elem/Middle,K-5,1007,District,District
+-75.061690610205147,40.029729669060323,19,126515001,3758,8200,"Allen, Ethan","Allen, Ethan",3001 Robbins Avenue,19149 - 3138,537-2530,Open,Elem/Middle,K-8,904,District,District
+-75.12999733289243,40.002468163006114,20,126515001,5123,5470,"Cramp, William","Cramp, William",3449 N. Masher St.,19140,291-4704,Open,Elementary School,K-5,562,District,District
+-75.154258531995126,39.979126767472131,21,126515001,3687,5250,"Dunbar, Paul Laurence","Dunbar, Paul Laurence",1720-58 N 12th St.,19122 - 2513,684-5065,Open,Elementary School,K-8,246,District,District
+-75.194310412693497,39.966598227134916,22,126515001,3611,1360,"McMichael, Morton","McMichael, Morton",3543 Fairmount Ave.,19104 - 1906,823-8205,Open,Elem/Middle,K-8,404,District,District
+-75.165765257416751,39.963412604871927,23,126515001,3808,2140,"Masterman, Julia R.","Masterman, Julia R.",1699 Spring Garden St.,19130,299-4661,Open,Middle/High,5-12,1180,District,District
+-75.152599186611312,39.944536268294542,24,126515001,3648,2340,"McCall, General George A.","McCall, General George A.",325 South 7th St.,19106 - 4139,351-7350,Open,Elem/Middle,K-8,687,District,District
+-75.177015321043498,39.924541253085735,25,126515001,3776,2320,"Girard, Stephen","Girard, Stephen",1801 Snyder Ave,19145 - 2390,952-8554,Open,Elementary School,K-4,572,District,District
+-75.151027684633959,39.918801807447188,26,126515001,3653,2630,"Sharswood, George","Sharswood, George",2300 S. 2nd St.,19148 - 4004,952-6212,Open,Elem/Middle,K-8,514,District,District
+-75.176729940507357,39.914457528365375,27,126515001,3620,2240,"Bregy, F. Amedee","Bregy, F. Amedee",1700 Bigler St.,19145 - 4816,952-6218,Open,Elem/Middle,K-8,480,District,District
+-75.178739134016084,39.975550785423366,28,126515001,4868,2390,"Morris, Robert","Morris, Robert",2600 W.Thompson St.,19121 - 4630,684-5087,Open,Elem/Middle,K-8,530,District,District
+-75.057752604253253,40.058546791480396,29,126515001,3771,8360,Rhawnhurst,Rhawnhurst,7809 Castor Ave.,19152 - 3603,728-5013,Open,Elementary School,K-5,593,District,District
+-75.162001548877626,40.056435668387266,30,126515001,6675,6060,"King, Martin Luther","King, Martin Luther",6100 Stenton Ave.,19138,276-5253,Open,High School,9-12,1060,District,District
+-75.165332028233678,40.056418755811329,31,126515001,7229,6460,"Hill, J. E. / Sampson Freedman","Hill, J. E. / Sampson Freedman",6200 Crittenden Sts.,19138,276-5260,Open,Middle/High,6-12,390,District,District
+-75.147735382656592,40.051825168045177,32,126515001,3835,7130,"Wagner, General Louis","Wagner, Gen. Louis",1701 Chelten Ave.,19141,276-5252,Open,Middle School,6-8,541,District,District
+-75.161566838288394,40.047823194487556,33,126515001,3721,6330,"Mastery Charter, Francis D Pastorius Elementary","Pastorius, Francis",5650  Sprague St.,19138 - 1744,951-4008,Open,Elem/Middle,K-8,550,Charter,Charter
+-75.117673499358972,40.035736404621765,34,126515001,7663,7370,Washington Grover Jr School,"Washington Jr., Grover",201 E Olney Avenue,19120,456-0422,Open,Middle School,5-8,565,District,District
+-75.075405372611158,40.030075192616827,35,126515001,7233,7460,"Ziegler, William H.","Ziegler, William H.",5935 Saul St.,19149 - 3446,537-2510,Open,Elem/Middle,K-8,531,District,District
+-75.066743314322224,40.000239948900933,36,126515001,3745,7470,Bridesburg,Bridesburg,2824 Jenks St.,19137 - 2231,537-2515,Open,Elem/Middle,K-7,611,District,District
+-75.114575057325382,39.994440410919367,37,126515001,6525,5230,"Conwell, Russell","Conwell, Russell",1829 Clearfield Avenue,19134,291-4722,Open,Middle School,5-8,463,District,District
+-75.177680365869449,39.989982744949714,38,126515001,5188,4470,"Wright, Richard","Wright, Richard",2700 W. Dauphin St.,19132 - 4638,684-5076,Open,Elementary School,K-5,373,District,District
+-75.146442434270554,39.982123300829343,39,126515001,8332,5610,Building 21,Building 21,2000 N 7th St,19122 - 1302,(215) 684-2030,Open,High School,9-10,138,District,District
+-75.135950194424524,39.974875909271198,40,126515001,3697,5370,"Moffet, John","Moffet, John",127 W Oxford St.,19122,291-4721,Open,Elementary School,K-5,411,District,District
+-75.130042129240323,39.972585876148287,41,126515001,7256,5200,"Adaire, Alexander","Adaire, Alexander",1300 E. Palmer St.,19125 - 3321,291-4712,Open,Elem/Middle,K-8,412,District,District
+-75.215152468673452,39.97254530893948,42,126515001,3663,1490,"Blankenburg, Rudolph","Blankenburg, Rudolph",4612-72 W. Girard Ave.,19131 - 4629,581-5505,Open,Elementary School,K-5,487,District,District
+-75.143068045947643,39.96819495213952,43,126515001,7070,5150,"Bodine, William W.","Bodine, William W.",1101 North 4th St.,19123,351-7332,Open,High School,9-12,480,District,District
+-75.235481597693123,39.955195367397792,44,126515001,5185,1290,"Hamilton, Andrew","Hamilton, Andrew",5640 Spruce St.,19139 - 3937,471-2911,Open,Elem/Middle,K-8,618,District,District
+-75.216618057989635,39.95413673150447,45,126515001,6530,1340,"Lea, Henry C.","Lea, Henry C.",4700 Locust St.,19139 - 4416,471-2915,Open,Elem/Middle,K-8,505,District,District
+-75.156099566925121,39.929828231290898,46,126515001,3647,2580,"Kirkbride, Elizabeth B.","Kirkbride, Elizabeth B.",1501 S. 7th St.,19147 - 6410,952-6214,Open,Elem/Middle,K-8,543,District,District
+-75.181226039694764,39.929387197820418,47,126515001,3629,2370,"McDaniel, Delaplaine","McDaniel, Delaplaine",2100 Moore St.,19145 - 1933,952-6203,Open,Elem/Middle,K-8,722,District,District
+-75.160571288339071,39.920895777365502,48,126515001,7228,2540,"Key, Francis Scott","Key, Francis Scott",2230 S. 8th St,19148 - 3101,952-6216,Open,Elementary School,K-6,502,District,District
+-75.236934387704324,39.916327196540571,49,126515001,3613,1400,"Patterson, John M.","Patterson, John M.",7001  Buist Ave,19142 - 1727,492-6453,Open,Elementary School,K-4,610,District,District
+-75.147000277174001,40.037244377199926,50,126515001,3728,6400,Widener Memorial,Widener Memorial,1450 West Olney ave.,19141,456-3015,Open,Special Center,K-12,166,District,District
+-75.254808903547485,39.973830856689453,51,126515001,6960,4480,Overbrook Educational Center,Overbrook Ed Ctr,6730-38 Lansdowne Ave,19151 - 3625,351-7018,Open,Elem/Middle,K-8,243,District,District
+-75.009464323802604,40.055047845160033,52,126515001,3766,8270,"Holme, Thomas","Holme, Thomas",9120 Academy Rd.,19114 - 2841,335-5656,Open,Elementary School,K-6,522,District,District
+-75.178116098550035,40.054125851697044,53,126515001,3709,6220,"Emlen, Eleanor C.","Emlen, Eleanor C.",6501 Chew Ave.,19119 - 2006,951-4010,Open,Elementary School,K-5,465,District,District
+-75.04429912825114,40.045807133047653,54,126515001,6768,8140,"Meehan, Austin","Meehan, Austin",3001 Ryan Ave.,19152,335-5654,Open,Middle School,7-8,554,District,District
+-75.065423866437115,40.044762821368209,55,126515001,3773,8340,"Solis-Cohen, Solomon","Solis-Cohen, Solomon",7001 Horrocks St.,19149 - 1743,728-5012,Open,Elementary School,K-6,1368,District,District
+-75.129096131539512,40.040299523315326,56,126515001,7232,7350,"Lowell, James R.","Lowell, James R.",450 W. Nedro,19120 - 1871,276-5272,Open,Elementary School,K-4,886,District,District
+-75.129594041386085,40.029483650926892,57,126515001,3749,7390,"Morrison, Andrew J.","Morrison, Andrew J.",5100 N. 3rd St.,19120 - 3311,456-3004,Open,Elem/Middle,K-8,690,District,District
+-75.156996241677618,40.018805385437815,58,126515001,3727,6390,"Steel, Edward","Steel, Edward",4301 Wayne Ave.,19140 - 1717,456-3008,Open,Elem/Middle,K-8,602,District,District
+-75.129461776788588,40.006104090295011,59,126515001,6767,7730,"Clemente, Roberto","Clemente, Roberto",122 W Erie Ave,19140,291-5400,Open,Middle School,6-8,439,District,District
+-75.13825477597635,40.006932133250892,60,126515001,3755,7440,"Taylor, Bayard","Taylor, Bayard",3698 North Randolph St.,19140 - 4538,227-4435,Open,Elementary School,K-5,571,District,District
+-75.135669554761762,40.001826488589195,61,126515001,7522,5680,Munoz-Marin Luis,Munoz-Marin Luis,3300 N. 3rd St.,19142 - 5721,291-8825,Open,Elem/Middle,K-8,723,District,District
+-75.140655388893862,39.997442398092552,62,126515001,5121,5390,Potter-Thomas,Potter-Thomas,3001-65 N 06th St.,19133 - 2824,227-4423,Open,Elem/Middle,K-8,631,District,District
+-75.131653546783355,39.993699180169884,63,126515001,3702,5410,"Sheppard, Isaac","Sheppard, Isaac",120 W Cambria.St,19133 - 4132,291-4711,Open,Elementary School,K-4,247,District,District
+-75.116765928008832,39.99314784205724,64,126515001,6544,5440,"Willard, Frances","Willard, Frances",1930 E. Elkhart St.,19134,(215) 291-4714,Open,Elementary School,K-4,784,District,District
+-75.112934561705671,39.986308947668128,65,126519392,8257,5100,Memphis Street Academy CS @ JP Jones,Memphis CS @ JP Jones,2950 Memphis St.,19134,(215)291-4709,Open,Middle School,5-8,1016,Charter,Charter
+-75.250696492290601,39.975164532875823,66,126515001,3664,4240,"Cassidy, Lewis C.","Cassidy, Lewis C.",6523  Landsdowne Ave.,19151 - 3315,581-5506,Open,Elementary School,K-6,577,District,District
+-75.210504398390668,39.969328794439129,67,,,1450,PYDA @ ES Miller,PYDA,4300  Westminister Ave.,19104,581-5509,Open,Remedial Discipline,9-12,129,District,District
+-75.16193474522737,39.963525162001645,68,126515001,3851,2010,Franklin Benjamin HS,Franklin Benjamin HS,550 North Broad St.,19130,299-4662,Open,High School,9-12,713,District,District
+-75.152898817101018,39.933796656588292,69,126515001,3659,2730,"Washington, George (EL)","Washington, George (EL)",1198 S 05th St.,19147 - 5203,952-6209,Open,Elem/Middle,K-8,380,District,District
+-75.183042155153245,39.922019338802897,70,126515001,7664,2410,"Girard Academic Music Program (Poe, Edgar Allen)",Gamp,2136 Ritner Street,19145,952-8590,Open,Middle/High,5-12,506,District,District
+-75.174452810728241,39.970181276412461,71,126515001,3618,2210,Bache / Martin,Bache / Martin,2201 Brown St.,19130 - 1906,684-5074,Open,Elem/Middle,K-8,427,District,District
+-75.057448466965724,40.095679260679148,72,126515001,4726,8430,"Greenberg, Joseph","Greenberg, Joseph",600 Sharon La.,19115 - 3527,961-2002,Open,Elem/Middle,K-8,703,District,District
+-74.987848204817524,40.0807023824213,73,126515001,6825,8320,"La Brum, General J. Harry","La Brum, General J. Harry",10800 Hawley St.,19154,281-2607,Open,Middle School,6-8,227,District,District
+-75.203279586513887,40.074918182402733,74,126515001,3714,6270,"Jenks, John S.","Jenks, John S.",8301 Germantown Ave.,19118 - 3403,248-6604,Open,Elem/Middle,K-8,462,District,District
+-75.069150408768039,40.052387381111394,75,126515001,7253,8120,"Wilson, Woodrow","Wilson, Woodrow",1800 Cottman Ave.,19111,728-5015,Open,Middle School,6-8,1134,District,District
+-75.076966953759069,40.049182072368275,76,126515001,3770,8310,"Moore, J. Hampton","Moore, J. Hampton",6900 Summerdale Ave.,19111 - 4520,728-5011,Open,Elementary School,K-5,1166,District,District
+-75.222291758023729,40.049176422551618,77,126515001,3861,6040,Saul W B Agricultural School,"Saul, Walter B. 
+Saul, Walter B. (CTE)",7100 Henry Ave.,19128,487-4467,Open,High School,9-12,511,District,District
+-75.119128764022534,40.043629064316193,78,126515001,3739,7270,"Finletter, Thomas K.","Finletter, Thomas K.",6101 N Front St.,19120 - 2038,276-5265,Open,Elem/Middle,K-8,835,District,District
+-75.051889879154899,40.039329003218896,79,126515001,3769,8300,Mayfair,Mayfair,3001 Princeton Ave,19149 - 1413,335-5651,Open,Elem/Middle,K-8,1176,District,District
+-75.046764795639845,40.028275174701676,80,126515001,3763,8240,"Disston, Hamilton","Disston, Hamilton",6801 Cottage St.,19135 - 2243,335-5661,Open,Elem/Middle,K-8,868,District,District
+-75.066737764717246,40.01591225649581,81,126515001,3753,7430,"Sullivan, James J.","Sullivan, James J.",5300 Ditman St.,19124,537-2524,Open,Elementary School,K-5,722,District,District
+-75.128312880376114,40.012566230023474,82,126515001,3849,5020,"Edison, Thomas A.","Edison, Thomas A.",151 W. Luzerne St.,19140,324-9440,Open,High School,9-12,1365,District,District
+-75.10218961748852,40.008420049477628,83,126515001,3742,7300,"Hopkinson, Francis","Hopkinson, Francis",1301-31 E Luzerne St,19124 - 5300,537-2526,Open,Elem/Middle,K-8,900,District,District
+-75.173647398392987,39.986621896562063,84,126515001,3786,4270,"Dick, William","Dick, William",2498 W. Diamond St.,19121 - 1311,684-5081,Open,Elem/Middle,K-8,556,District,District
+-75.248330849042063,39.907467046443465,85,126515001,3616,1440,Penrose,Penrose,2515 South 78th St.,19153 - 1201,492-6455,Open,Elem/Middle,K-8,620,District,District
+-75.171028817212658,40.073096627367256,86,126515001,3708,6210,"Edmonds, Franklin S.","Edmonds, Franklin S.",8025 Thouron Ave.,19150 - 2424,276-5261,Open,Elementary School,K-5,489,District,District
+-75.159099905668185,40.0651116465855,87,126515001,6539,6350,"Pennypacker, Samuel","Pennypacker, Samuel",1850 E. Washington Lane,19138 - 1228,276-5271,Open,Elementary School,K-5,355,District,District
+-75.027068406699456,40.059529702698683,88,126515001,3801,8410,"Pollock, Robert B.","Pollock, Robert B.",2951 Welsh Rd.,19152 - 2136,961-2004,Open,Elementary School,K-6,762,District,District
+-75.142322970094696,40.041462546497115,89,126515001,3743,7320,"Howe, Julia Ward","Howe, Julia Ward",5800 N 13th St.,19141 - 4121,276-5270,Open,Elementary School,K-5,270,District,District
+-75.036069043699513,40.034648833432911,90,126515001,3764,8250,"Forrest, Edwin","Forrest, Edwin",7300 Cottage St.,19136 - 4021,335-5652,Open,Elementary School,K-6,1116,District,District
+-75.120872648965133,40.031088543610601,91,126515001,3750,7400,Olney Elementary,Olney Elementary,5301 N. Water Street,19120 - 3246,456-3003,Open,Elem/Middle,K-8,860,District,District
+-75.172636156625089,40.024998578950445,92,126515001,5294,6470,"Kelly, John B.","Kelly, John B.",5116 Pulaski Ave.,19144 - 4022,951-4011,Open,Elementary School,K-5,658,District,District
+-75.085151825662706,40.021707544463858,93,126515001,3850,7010,Frankford High School,Frankford HS,5000 Oxford Ave.,19124,537-2519,Open,High School,9-12,1222,District,District
+-75.058586846178173,40.020264076952948,94,126515001,3744,7330,"Lawton, Henry W.","Lawton, Henry W.",6100 Jackson St.,19135 - 3614,335-5659,Open,Elementary School,K-5,747,District,District
+-75.085129417234825,40.011970283920903,95,126515001,4963,7290,"Stearne, Allen M.","Stearne, Allen M.",1655 Unity St.,19124 - 4047,537-2522,Open,Elem/Middle,K-8,556,District,District
+-75.191910413898285,40.013269572456885,96,126515001,3720,6320,"Mifflin, Thomas","Mifflin, Thomas",3624 Conrad St.,19129 - 1632,951-4007,Open,Elem/Middle,K-8,277,District,District
+-75.154201258243006,40.005554770332843,97,126515001,3795,4310,Young Scholars Kenderton,Young Scholars Kenderton,1500 W Ontario Street,19140 - 5012,227-4412,Open,Elem/Middle,K-8,637,Charter,Charter
+-75.184148617596819,39.990310689849636,98,126515001,7255,4140,Strawberry Mansion,Strawberry Mansion,3133 Ridge Ave.,19132,684-5089,Open,High School,9-12,439,District,District
+-75.238332225917091,39.980971607673887,99,126515001,3857,4020,Overbrook High School,Overbrook HS,5898 Lancaster Ave.,19131,581-5507,Open,High School,9-12,744,District,District
+-75.219726982394945,39.967417119570747,100,126515001,3614,1410,"Rhoads, James","Rhoads, James",4901 Parrish St.,19139 - 1721,581-5504,Open,Elementary School,K-8,578,District,District
+-75.177684715173172,39.952189931321527,101,126515001,5186,2470,"Greenfield, Albert M.","Greenfield, Albert M.",2200 Chestnut,19103 - 4307,299-3566,Open,Elem/Middle,K-8,580,District,District
+-75.216408667780627,39.94087316696946,102,126515001,3782,1260,"Comegys, Benjamin B.","Comegys, Benjamin B.",5001 Greenway Ave.,19143 - 5109,727-2162,Open,Elementary School,K-8,617,District,District
+-75.150677945770568,39.939594842029194,103,126515001,3649,2380,"Meredith, William M.","Meredith, William M.",725 South 5th St.,19147 - 3043,351-7360,Open,Elem/Middle,K-8,563,District,District
+-75.165294999842232,39.93934132927793,104,126515001,6996,2020,Creative and Performing Arts,Creative & Performing Arts,901 S. Broad St.,19147,952-2462,Open,High School,9-12,701,District,District
+-75.170440636700619,39.934882967655646,105,126515001,3622,2260,"Childs, George W.","Childs, George W.",1599 Wharton St.,19146 - 4716,952-6213,Open,Elementary School,K-8,598,District,District
+-75.159890622354922,39.925920502061899,106,126515001,3654,2640,Southwark,Southwark,1835 S. 9th St.,19148 - 1661,952-8606,Open,Elem/Middle,K-8,583,District,District
+-75.232453149797536,39.921478338506262,107,126515001,3832,1130,"Tilden, William","Tilden, William",6601 Elmwood Ave,19142,492-6454,Open,Middle School,5-8,545,District,District
+-75.168346953934716,39.918885100184909,108,126515001,7227,2520,"Jenks, Abram","Jenks, Abram",2501 S 13th St.,19148 - 4305,952-6224,Open,Elementary School,K-4,269,District,District
+-75.14606916921808,40.038308019650167,109,126515001,3843,6050,Girls High School,Girls HS,1400 West  Olney Ave.,19141,276-5258,Open,High School,9-12,1044,District,District
+-75.028432494801592,40.087935148112166,110,126515001,3803,8400,"Frank, Anne","Frank, Anne",2000 Bowler St.,19115 - 3319,961-2005,Open,Elementary School,K-5,1227,District,District
+-75.149339132244137,40.047698701906427,111,126515001,6765,7490,Prince Hall,Prince Hall,6101-67 N Gratz,19141 - 1401,276-5255,Open,Elementary School,K-5,545,District,District
+-75.024746051606016,40.043367407053509,112,126515001,6529,8210,"Brown, Joseph H.","Brown, Joseph H.",3600 Stanwood St.,19136 - 2357,335-5650,Open,Elem/Middle,K-6,555,District,District
+-75.104016773864117,40.042294293631301,113,126515001,7231,7280,Franklin Benjamin Elementary School,Franklin Benjamin Elem Sc,5735 Rising Sun Ave.,19120 - 1629,728-5017,Open,Elem/Middle,K-8,1014,District,District
+-75.150919696032929,40.043284826756768,114,126515001,3722,6340,"Pennell, Joseph","Pennell, Joseph",1800 Nedro Aves.,19141 - 1324,276-5267,Open,Elementary School,K-5,375,District,District
+-75.150257284919149,40.037429167390535,115,126515001,3848,6010,Central,Central,1700 W Olney Ave.,19141 - 1105,276-5262,Open,High School,9-12,2238,District,District
+-75.16709242045502,40.033398327646793,116,126515001,3731,6430,"Wister, John","Wister, John",67 E. Bringhurst St.,19144 - 2338,951-4003,Open,Elementary School,K-5,383,District,District
+-75.176334523215488,40.03364001224606,117,126513200,7579,3320,Imani Education Circle Charter School,Imani Education Circle CS,"5612 Greene Street, 2nd Floor",19144,215-713-9240,Open,Elem/Middle,K-8,454,Charter,Charter
+-75.163551021250086,40.059451171372444,118,126513020,7548,3314,West Oak Lane Charter School ,West Oak Lane CS,7115 Stenton Avenue,19138,215-927-7995,Open,Elem/Middle,K-8,959,Charter,Charter
+-75.17165326814019,39.955732923760664,119,126510001,7677,3360,Russell Byers Charter School ,Russell Byers CS,1911 Arch Street,19103,215-972-1700,Open,Elementary School,K-6,486,Charter,Charter
+-75.132908327514116,40.015008447197381,120,126513440,7665,3333,Esperanza Academy Charter School ,Nueva Esperanza Acad CS,301 W. Hunting Park Avenue,19140,215-457-3667,Open,Middle/High,6-12,928,Charter,Charter
+-75.16498368396266,39.978404074991303,121,126515001,3630,4570,"Meade, General George G.","Meade, General George G.",1600 N 18th St.,19121 - 3232,684-5062,Open,Elem/Middle,K-8,366,District,District
+-75.229311799947439,39.977755546634619,122,126515001,5187,4300,"Heston, Edward","Heston, Edward",1621 N. 54th St.,19131 - 4002,581-5514,Open,Elem/Middle,K-8,481,District,District
+-75.152452786995127,39.950281129072586,123,126515001,7905,2670,Constitution HS,Constitution HS,18 S 7th St,19106,215-351-7310,Open,High School,9-12,351,District,District
+-75.168219804161922,39.998423517468488,124,126515001,3675,4380,"Peirce, Thomas M.","Peirce, Thomas M.",2300 W Cambria St,19132 - 2025,(215) 227-4411,Open,Elem/Middle,K-6,446,District,District
+-75.161329975478225,39.983408268534944,125,126515001,7023,4030,"Carver, George Washington, Engineering and Science","Carver, George Washington, Engg. & Sci.",1600 W Norris St,19121,684-5079,Open,High School,9-12,740,District,District
+-75.127129881789813,39.972650680020912,126,126515001,7244,5110,Penn Treaty,Penn Treaty,600 E. Thompson St,19125,291-4715,Open,Middle School,6-12,544,District,District
+-75.245038141826825,39.946907749882293,127,126515001,3804,1460,"Anderson, Add B.","Anderson, Add B.",1034 South 60th St.,19143 - 2343,471-2903,Open,Elem/Middle,K-8,521,District,District
+-75.223268412219426,39.936785101651346,128,126515001,3798,1370,"Mitchell, Weir","Mitchell, Weir",5500 Kingsessing Ave,19143 - 5329,727-2160,Open,Elementary School,K-7,681,District,District
+-75.226928415985356,39.923951326817132,129,126515001,6535,1380,"Morton, Thomas G.","Morton, Thomas G.",2501 S. 63rd St.,19142 - 3101,727-2164,Open,Elementary School,K-5,798,District,District
+-75.128587776347374,39.984855319265137,130,126515001,7855,5550,Kensington Culinary Arts,Kensington Culinary Arts,2445-63 Emerald St.,19125,291-5185,Open,High School,9-12,432,District,District
+-75.23025868268391,40.03135672688223,131,126515001,3726,6450,"Dobson, James","Dobson, James",4667 Umbria,19127 - 1929,487-4460,Open,Elem/Middle,K-8,286,District,District
+-75.087215186426647,40.025076497139843,132,126515691,8252,7250,The Philadelphia CS for Arts and Sciences at HR Edmunds,Edmunds CS,1197 Haworth St.,19124 - 2505,537-2520,Open,Elem/Middle,K-8,1273,Charter,Charter
+-75.158911108018074,39.985768991459715,133,126515001,5040,4460,"Duckrey, Tanner","Duckrey, Tanner",1501 W. Diamond St.,19121 - 2310,684-5066,Open,Elem/Middle,K-8,605,District,District
+-75.242067385513664,39.986460601682523,134,126515001,7238,4100,"Beeber, Dimner","Beeber, Dimner",5925  Malvern Ave.,19131,581-5513,Open,Middle School,7-8,181,District,District
+-75.110420279266009,39.983399000437295,135,126515001,3701,5400,Richmond,Richmond,2944 Belgrade St.,19134 - 4956,291-4718,Open,Elementary School,K-5,681,District,District
+-75.211379983069563,39.966034114865835,136,126515001,3615,1420,"Washington, Martha","Washington, Martha",728-62 N 44th St.,19104 - 1312,823-8203,Open,Elem/Middle,K-8,467,District,District
+-75.219907868074117,39.959010394559314,137,126515001,3860,1020,West Philadelphia High School,West Phila HS,4901 Chestnut St,19139,471-2902,Open,High School,9-12,578,District,District
+-75.16328229450059,39.934621893082806,138,126515001,3642,2510,"Jackson, Andrew","Jackson, Andrew",1213 S. 12th St.,19147 - 4501,952-6223,Open,Elem/Middle,K-8,463,District,District
+-75.16879695159389,39.923616237615597,139,126515001,3859,2000,South Philadelphia,South Philadelphia,2101 South Broad St.,19148,952-6220,Open,High School,9-12,761,District,District
+-75.179474618124488,40.009078515265003,140,126515001,7813,6090,"Randolph, A. Philip AVT HS",Randolph HS,3101 Henry Ave,19129,227-4407,Open,High School,9-12,540,District,District
+-75.025310893242505,40.106170206278186,141,126515001,6527,8030,"Washington, George High School","Washington, George HS",10175 Bustleton Ave.,19116,961-2001,Open,High School,9-12,1521,District,District
+-74.988990829991835,40.067430826018686,142,126515001,5041,8180,"Hancock, John","Hancock, John",3700 Morrell Ave.,19114 - 1939,281-2604,Open,Elementary School,K-5,517,District,District
+-75.052446437299153,40.066567565621561,143,126515001,7235,8380,"Farrell, Louis H.","Farrell, Louis H.",8300 Castor Ave.,19152 - 2725,728-5009,Open,Elem/Middle,K-8,1061,District,District
+-75.081383931972596,40.062164074088585,144,126515001,3762,8230,"Crossan, Kennedy C.","Crossan, Kennedy C.",7350 Bingham St.,19111 - 1301,728-5014,Open,Elementary School,K-5,364,District,District
+-75.1484151389446,40.058771897537206,145,126515001,3724,7530,"Rowen, William","Rowen, William",6841 North 19th St.,19126 - 1534,276-5251,Open,Elementary School,K-5,518,District,District
+-75.174901860134867,40.048124618338278,146,126515001,3824,6110,"Roosevelt, Theodore","Roosevelt, Theodore",430 E Washington Lane,19144,951-4170,Open,Elem/Middle,K-8,564,District,District
+-75.223047287270731,40.037239272247739,147,126515001,3844,6030,Roxborough High School,Roxborough,6498 Ridge Ave.,19128,487-4464,Open,High School,9-12,564,District,District
+-75.134506451337188,40.030233890312608,148,126515001,7521,5500,"Marshall, Thurgood","Marshall, Thurgood",5118-50 N. 6th St.,19120 - 3147,456-0170,Open,Elem/Middle,K-8,696,District,District
+-75.166408158849833,40.026130882168054,149,126515001,6913,6230,Fitler Academics Plus,Fitler,140 West Seymour St.,19144 - 3667,951-4009,Open,Elem/Middle,1-8,273,District,District
+-75.105179755224754,39.996250307560324,150,126515001,5124,5590,"Webster, John H.","Webster, John H.",3400 Frankford Ave.,19134 - 2651,537-2525,Open,Elementary School,K-5,888,District,District
+-75.139252714433368,39.98639985881271,151,126515001,3703,5420,"Welsh, John","Welsh, John",2331 N 04th St.,19133 - 2933,291-4708,Open,Elem/Middle,K-8,504,District,District
+-75.183520873182474,39.985404803364503,152,126515001,3662,4220,"Blaine, James G.","Blaine, James G.",3001-29 West Berks St.,19121 - 1801,684-5085,Open,Elem/Middle,K-8,424,District,District
+-75.17734345750867,39.978076753146766,153,,,2310,Camelot Academy at Boone,"Boone, Daniel",1435 N. 26th St.,19121,684-5080,Open,Remedial Discipline,6-12,,District,District
+-75.26703140531346,39.975674364238017,154,126515001,3670,4320,"Lamberton, Robert Elementary School","Lamberton, Robert Elem",7501 Woodbine Ave.,19151 - 2709,581-5650,Open,Elem/Middle,K-8,518,District,District
+-75.145861054553748,39.972323449668316,155,126515001,3694,5340,"Ludlow, James R.","Ludlow, James R.",500 W. Master St.,19122 - 4316,684-5060,Open,Elem/Middle,K-8,304,District,District
+-75.163361756221605,39.965054005603974,156,126515001,6822,2290,Franklin Learning Center,Franklin Learning Ctr,616 N 15th St.,19130,684-5916,Open,High School,9-12,787,District,District
+-75.230261380114925,39.94746813833585,157,126515001,6528,1300,"Harrington, Avery","Harrington, Avery",5300-34 Baltimore Ave.,19143 - 3117,471-2914,Open,Elementary School,K-8,607,District,District
+-75.163266844010877,39.915477293423599,158,126515001,7226,2190,"Fell, D. Newlin","Fell, D. Newlin",900 W.  Oregon Ave.,19148 - 4504,952-6237,Open,Elem/Middle,K-8,554,District,District
+-75.009144085008487,40.120926061733982,159,126515001,3760,8370,"Comly, Watson","Comly, Watson",1001  Byberry Road,19116 - 2120,961-2008,Open,Elementary School,K-5,507,District,District
+-75.080542123389677,40.074564373927487,160,126515001,3765,8260,Fox Chase,Fox Chase,700 Rhawn St.,19111 - 2505,728-5016,Open,Elementary School,K-5,462,District,District
+-75.174851908840466,40.07143184911606,161,126515001,3822,6100,"Leeds, Morris E.","Leeds, Morris E.",1100 E. Mt. Pleasant Ave.,19150,248-6602,Open,Middle School,6-8,266,District,District
+-75.071201153673528,40.056194802587079,162,126515001,3855,8020,Northeast High School,Northeast HS,1601 Cottman Ave.,19111,728-5018,Open,High School,9-12,2965,District,District
+-75.195181209449174,40.059523743984037,163,126515001,3713,6260,"Houston, Henry E.","Houston, Henry E.",7300 Rural Lane,19119 - 4108,248-6608,Open,Elem/Middle,K-8,382,District,District
+-75.138482877602939,40.055139543776697,164,126515001,3738,7260,Ellwood,Ellwood,6701 N. 13th St.,19126 - 2848,276-5286,Open,Elementary School,K-5,317,District,District
+-75.156209309572688,39.965035627156993,165,126515001,3655,5560,Spring Garden,Spring Garden,1146 Melon St,19123 - 1964,684-5070,Open,Elem/Middle,K-8,275,District,District
+-75.176218798687827,39.941856777816618,166,126515001,3805,2480,"Arthur, Chester A.","Arthur, Chester A.",800 S 20TH ST,19146 - 1329,875-5774,Open,Elem/Middle,K-8,259,District,District
+-75.232662886316021,39.940399439211021,167,126515001,6533,1350,"Longstreth, William","Longstreth, William",5700 Willows Ave.,19143 - 4517,727-2158,Open,Elem/Middle,K-8,485,District,District
+-75.159560336527917,39.962794669321276,168,126515001,7782,5080,Parkway Center City,Parkway Center City,540 N 13th St,19123,351-7095,Open,High School,9-12,535,District,District
+-75.092465277331087,40.036447621593041,169,126515001,3816,7120,"Fels, Samuel","Fels, Samuel",5500 Langdon St,19124,215-537-2516,Open,High School,9-12,1101,District,District
+-75.174468042027371,39.952336372579111,170,126513270,7586,3318,Freire Charter School,Freire CS,2027 CHESTNUT ST,19103,215-557-8555,Open,Middle/High,5-12,947,Charter,Charter
+-75.148215462507196,39.967717976192944,171,126513250,7584,3329,Young Scholars Charter School ,Young Scholars Charter School,900 N Marshall St,19122,215-232-9727,Open,Middle School,6-8,251,Charter,Charter
+-75.082281770894596,40.007307526885,172,100510000,7744,3364,First Philadelphia Charter School for Literacy,First Phila CS for Literacy,4300 Tacony St,19124,215-743-3100,Open,Elem/Middle/High,K-9,1290,Charter,Charter
+-75.242677813266781,39.91819036492511,173,108515107,7960,3392,Southwest Leadership Academy,Southwest Leadership Acad,7101 Paschall Ave,19142,215-729-1939,Open,Elem/Middle,K-8,489,Charter,Charter
+-75.189528773522184,40.051938444419719,174,126510017,7826,3350,Khepera Charter School,Khepera CS,144 Carpenter Lane,19119,215-843-1700,Open,Elem/Middle,K-8,453,Charter,Charter
+-75.186618027579172,39.928465480106674,175,126512960,7540,3313,"Preparatory CS of Math, Science Technology and Careers","Prep CS of Math, Sci Tech & Careers",1928 Point Breeze Ave,19145,215-334-6144,Open,High School,9-12,576,Charter,Charter
+-75.252015931409588,39.97319403383235,176,126512850,7511,3302,Philadelphia Harambee Institute Charter School,Harambee CS,638-40 N 66th Street,19151,215-472-8770,Open,Elem/Middle,K-8,545,Charter,Charter
+-75.156777665635673,40.056241751047025,177,126510003,7723,3363,Hope Charter School,Hope CS,2116 E Haines Street,19138,267-336-2730,Open,High School,9-12,487,Charter,Charter
+-75.215567023900761,39.973249152697235,178,126513380,7639,3337,Global Leadership Academy Charter School,Global Leadership Acad CS,4601 W Girard Ave,19131,215-477-6672,Open,Elem/Middle,K-8,722,Charter,Charter
+-75.231468594535059,39.987856537955892,179,,,3327,Laboratory Charter School of Communications/Design (Annex),Laboratory CS of Comm/Design (Annex),5339 Lebanon Ave,19131,215-877-9880,Open,Elem/Middle,2-8,,Charter,Charter
+-75.094436257136309,40.005613649922473,180,126513480,7672,3332,Mariana Bracetti Academy Charter School,Mariana Bracetti Acad CS,1840 Torresdale Avenue,19124,215-291-4436,Open,Middle/High,6-12,1200,Charter,Charter
+-75.233292825534249,40.043146148755625,181,126510005,7748,3365,Green Woods Charter School,Green Woods CS,468 Domino Lane,19128,215-482-6337,Relocating: Fall 2013,Elem/Middle,K-8,466,Charter,Charter
+-75.165075651303212,39.950686789504651,182,126510009,7737,3358,Philadelphia Electrical and Technology Charter School ,Phila Electrical & Tech CS,1420-22 Chestnut St,19102,267-514-1823,Open,High School,9-12,575,Charter,Charter
+-75.1654460682158,39.979821121359485,183,126512990,7543,3315,Alliance  for Progress Charter School,Alliance CS,1821-39 Cecil B. Moore Avenue,19121,215-232-4892,Open,Elem/Middle,K-8,432,Charter,Charter
+-75.233436448021578,39.951647677438928,184,185515523,7981,3388,Boy's Latin of Philadelphia,Boy's Latin of Phila,5501 Cedar Ave,19143,215-387-5149,Open,High School,9-12,664,Charter,Charter
+-75.130735963430169,40.013465892037466,185,104510394,8031,3395,Antonia Pantoja Charter School,Antonia Pantoja CS,4101 N American St,19140,215-329-2733,Open,Elem/Middle,K-8,721,Charter,Charter
+-75.067576781204409,40.00793322901314,186,126510014,7777,3366,Maritime Academy Charter School,Maritime Acad CS,2275 Bridge St,19137,215-535-4555,Open,Middle/High,3-12,780,Charter,Charter
+-75.243043760657173,39.988180899726977,187,,,3377,Laboratory Charter School of Communications/Design (Annex),Laboratory CS of Comm/Design (Annex),5901 Woodbine Ave,19131,215-452-5580,Open,Elementary School,K-1,,Charter,Charter
+-75.008658781328762,40.101495981242458,188,126513280,7587,3322,Philadelphia Academy Charter School ,Phila Acad CS,11000 Roosevelt Boulevard,19116,215-676-8320,Open,Elem/Middle,K-8,1180,Charter,Charter
+-75.158654617062751,39.938608223051503,189,,,3369,Christopher Columbus Charter School (Annex),Christopher Columbus CS (Annex),916 Christian St,19147,215-925-7400,Open,Elementary School,K-5,,Charter,Charter
+-75.14713201761019,39.949452658045509,190,126510002,7678,3361,Mastery Charter High School,Mastery CHS,35 S. 4th Street,19106,215-922-1902,Open,Middle/High,7-12,561,Charter,Charter
+-75.171434994323917,39.917979094904879,191,126513400,7647,3336,Philadelphia Performing Arts Charter School ,Phila Performing Arts Charter School ,2600 S. Broad St,19145,215-551-4000,Open,Elem/Middle/High,K-12,1417,Charter,Charter
+-75.088097444675924,40.009579476117423,192,114514135,8083,3399,Sankofa Freedom Academy Charter School,Sankofa Freedom Acad CS,4256 Paul St,19124,215-288-2001,Open,Elem/Mid/High,K-12,591,Charter,Charter
+-75.04526766438849,40.021755150352817,193,182514568,7979,3389,Keystone Academy Charter School,Keystone Academy Charter School,6649 Tulip Street,19135,215-332-2111,Open,Elem/Middle,K-8,492,Charter,Charter
+-75.091087743990812,40.011831860362911,194,,,3387,Sankofa Freedom Academy Charter School (Annex),Sankofa Freedom Academy Charter Annex,4290 Penn St,19124,215-543-9980,Open,Elem/Middle,K-8,,Charter,Charter
+-75.218533677806903,39.928393423213947,195,126510008,7684,3359,Richard Allen Preparatory,Richard Allen Prep,2601 S 58th St,19143,215-878-1544,Open,Middle School,5-8,523,Charter,Charter
+-75.180876073724505,40.031889158956204,196,151514721,7961,3393,Mastery Charter School at Pickett,Mastery/ CS at Pickett,5700 Wayne Ave.,19144,215-866-9000,Open,Middle/High,6-12,544,Charter,Charter
+-75.214052806391422,39.977218467019952,197,126510011,7775,3372,Discovery Charter School,Discovery CS,4700 Parkside Ave,19131,215-879-8182,Open,Elem/Middle,K-8,760,Charter,Charter
+-75.254282638028457,39.970352531854537,198,126510006,7722,3357,West Philadelphia Achievement Charter Elememtary School,West Phila Achievement CS,6701 Callowhill Street,19151,215-476-6471,Open,Elementary School,K-5,664,Charter,Charter
+-75.204955612276763,39.966867115966721,199,126510010,7750,3368,Belmont Charter School,Belmont CS,4030-60 Brown St,19104 - 4844,215-823-8208,Open,Elem/Middle,K-8,533,Charter,Charter
+-75.160692535076791,39.968081248296492,200,126510004,7685,3335,People for People Charter School ,People for People CS,800 N Broad Street,19130,215-763-7060,Open,Elem/Middle,K-8,527,Charter,Charter
+-75.067238523758022,40.007423827348127,201,126513450,7666,3331,Franklin Towne Charter High School,Franklin Towne CHS,5301 Tacony Street,19137,215-289-5000,Open,High School,9-12,1190,Charter,Charter
+-75.024231489415669,40.034632357539792,202,126513420,7649,3334,New Foundations Charter School ,New Foundations CS,8001 Torresdale Avenue,19136,215-624-8100,Open,Elem/Middle/High,K-12,1247,Charter,Charter
+-75.152136100370214,39.948829060976067,203,126513190,7578,3317,"Charter High School for Architecture and Design
+",Architecture & Design CS,105 S 7th Street,19106,215-351-2900,Open,High School,9-12,596,Charter,Charter
+-75.171610774362648,40.072684940869991,204,126510018,7829,3380,New Media Technology Charter School,New Media Tech CS,8034    THOURON         ST,19150,267-286-6900,Open,Middle/High School,5-12,455,Charter,Charter
+-75.156222670424967,39.959096953069739,205,126510021,7857,3384,Folk Arts-Cultural Treasures Charter School,Folk Arts Treasures CS,1025 Callowhill St,19123,215-569-2600,Open,Elem/Middle,K-8,481,Charter,Charter
+-75.136073888273316,39.994454473725256,206,173515368,7985,3394,Pan American Academy,Pan American Academy,2830 North American Street,19133 - 3705,215-425-1212,Open,Elem/Middle,K-8,736,Charter,Charter
+-75.16772433641043,39.940843590219366,207,126513210,7580,3326,Universal Institute Charter School ,Universal Institute CS,801 S 15th Street,19146,215-732-2876,Open,Elem/Middle,K-8,644,Charter,Charter
+-75.171304867325716,40.016048139312623,208,126510007,7724,3362,Wissahickon Charter School,Wissahickon CS,4700 Wissahickon Avenue,19144,267-338-1020,Open,Elem/Middle,K-8,426,Charter,Charter
+-75.165618622761841,39.934169382030667,209,126513160,7575,3306,Christopher Columbus Charter School,Christopher Columbus CS,1242-46 S 13TH ST,19147,215-389-6000,Open,Middle School,5-8,794,Charter,Charter
+-75.160736350874146,39.961125559618964,210,126513230,7582,3321,"Mathematics, Civics and Sciences Charter School","Math, Civics & Sci CS",447 N Broad St,19123,215-923-4880,Open,Elem/Mid/High,1-12,968,Charter,Charter
+-75.158632805866134,39.972897000010953,211,126512870,7513,3304,YouthBuild Charter School,YouthBuild CS,"1231 N. Broad Street, 3rd Floor",19122,215-627-8671,Open,High School,12,258,Charter,Charter
+-75.165792515828755,39.943865343232829,212,126512860,7512,3303,World Communications Charter School ,World Communications CS,512 S. Broad Street,19146,215-735-3198,Open,Middle/High,6-12,626,Charter,Charter
+-75.161377030165767,39.978688461376954,213,,,3374,Alliance for Progress Charter School (Annex),Alliance CS (Annex),1630-32 N 16th Street,19121,215-232-4892,Open,Elementary School,4-8,,Charter,Charter
+-75.106621773650303,40.004597709900416,214,126512840,7510,3301,Community Academy of Philadelphia Charter School,Community Acad of Phila CS,1100 E. Erie Avenue,19124,215-533-6700,Open,Elem/Mid/High,K-12,1219,Charter,Charter
+-75.225957686612048,39.941880759854719,215,126513290,7588,3323,"Mastery Charter School, Hardy Williams Elementary",Hardy Williams CS,1712 S. 56th Street,19143,215-724-2343,Open,Elem/Middle/High,K-12,820,Charter,Charter
+-75.144938305284157,40.033322200363727,216,126513470,7671,3342,Delaware Valley Charter High School,Delaware Valley CHS,5201 Old York Rd,19141,215-455-2550,Open,High School,9-12,680,Charter,Charter
+-75.168543566078526,40.005809000354347,217,,,3347,KIPP Philadelphia Elementary Academy (Annex),KIPP Philadelphia Elem Acad,2409 W Westmoreland St,19129,267-687-7283,Open,Elementary School,K-1,225,Charter,Charter
+-75.175508909894972,39.993912970817938,218,,,3353,"KIPP DuBois Collegiate (Annex)
+KIPP DuBois Collegiate Academy","KIPP DuBois Collegiate Acad
+KIPP DuBois Colle*",2601 W Cumberland St,19107,267-687-4297,Open,High School,9-12,270,Charter,Charter
+-75.017745788649904,40.02960794929897,219,326510558,,8540,Philadelphia Prison Pennypack House,Pennypack House,7901 State Rd.,19136,215-685-7750,Open,Remedial Discipline,9-12,41,District,District
+-75.175860000241954,39.95576144075995,220,126515001,7906,2650,Science Leadership Academy (Franklin Institute),Science Leadership Acad (Franklin Ins),2130 Arch Street,19103,979-5620,Open,High School,9-12,497,District,District
+-75.215861965970234,39.961641942805166,221,326518966,,2530,Youth Study Center,Youth Study Ctr,91 N 48th Street,19139,(215) 471-2275,Open,Remedial Discipline,Ungraded,,District,District
+-75.24056654135363,39.959111631592521,222,226515722,,,Sanctuary Christian Academy,Sanctuary Christian Acad,5923 WALNUT ST,19139,(215) 748-6510,Open,Elementary School,K-6,55,Private,Private
+-75.092234280815305,40.049450204609592,223,226510912,,,Cedar Grove Christian Acad Lower School,Cedar Grove Christian Acad,600 Hellerman Street,19111,(215) 725-3383,Open,Elem/Middle,pre K-8,269,Private,Private
+-75.148141999591743,39.942679731360116,224,226519162,,,St Peters School,St Peters School,311-21 LOMBARD ST,19147,(215) 925-3963,Open,Elem/Middle,pre K-8,209,Private,Private
+-75.138251472831953,39.991261363356728,225,226519672,,,Timothy Academy,Timothy Acad,2637-47 N 04TH ST,19133,(215) 423-0416,Open,Elem/Middle,K-8,137,Private,Private
+-75.164896391433942,39.97315271671998,226,226518302,,,St Joseph's Preparatory School,St. Joseph's Prep Sch,1733 W  GIRARD AVE,19130,215-978-1950,Open,High School,9-12,992,Private,Private
+-75.174911867944928,39.937466574927548,227,226515682,,,Faith Connection Christian Academy,Faith Connection Christian Acad,1145 S 19th St,19145,(215) 748-6819,Open,Elem/Mid/High,K-12,145,Private,Private
+-75.123947811041077,40.028399244754098,228,126513452,8205,3413,Olney Charter High School,Olney CHS,100 W  Duncannon Ave.,19120,(215)456-3014,Open,High School,9-12,2210,Charter,Charter
+-75.073949792870181,40.019690606235301,229,126517286,8151,3409,Mastery Charter School at Smedley,Mastery CS at Smedley,1790 Bridge St.,19124 - 1359,215-537-2523,Open,Elementary School,K-6,682,Charter,Charter
+-75.155936133503261,40.014300975928144,230,126513734,8207,3416,Mastery Charter School at Gratz,Mastery CS at Gratz,1798 Hunting Park Ave.,19140,215-227-4408,Open,High School,9-12,1756,Charter,Charter
+-75.125652773525758,39.998933426518349,231,133513315,8149,3406,John B. Stetson Charter School,John B. Stetson CS,"3200 ""B"" St.",19134,291-4720,Open,Middle School,5-8,675,Charter,Charter
+-75.169754230145074,39.984570770804751,232,126518547,8150,3412,Frederick Douglass Mastery Elementary,Frederick Douglass Mastery Elementary,2118 W Norris St,19121 - 2132,684-5063,Open,Elementary,K-5,769,Charter,Charter
+-75.231135554862675,39.985555294953613,233,126519433,8152,3408,Mastery Charter School at Mann,Mastery CS at Mann,5376 W. Berks St.,19131 - 3229,215-581-5616,Open,Elementary School,K-6,496,Charter,Charter
+-75.23602759097443,39.974291097121991,234,168513758,8145,3410,Universal Bluford Charter School,Universal Bluford CS,5720  Media St.,19131 - 3824,581-5502,Open,Elementary School,K-6,721,Charter,Charter
+-75.185389961243885,39.925751992130472,235,126513415,8196,3418,Universal Vare Charter School,Universal Vare CS,2100 S 24th St.,19145,952-8611,Open,Middle School,5-8,626,Charter,Charter
+-75.151054779080681,39.995836295030315,236,126511748,8208,3415,Mastery Charter School at Clymer,Mastery CS at Clymer,1201 W.  Rush St.,19133 - 1236,215-223-2243,Open,Elem/Middle,K-8,550,Charter,Charter
+-75.235958180844932,39.948923885547345,237,126516457,8153,3407,Mastery Charter School at Harrity,Mastery CS at Harrity,5601 Christian St.,19143 - 2805,215-471-2908,Open,Elem/Middle,K-8,569,Charter,Charter
+-75.198891389724352,39.9338496618223,238,126519434,8195,3417,Universal Audenried Charter School,Universal Audenried CS,3301 Tasker St,19145,(215) 952-4801,Open,High School,9-12,258,Charter,Charter
+-75.075204110577957,39.995997506496749,239,147513703,8123,3403,Franklin Towne Charter Elementary School,Franklin Towne Elem CS,4259 Richmond Street,19137,215-289-5000,Open,Elem/Middle,K-8,917,Charter,Charter
+-75.066232900333574,40.06688619672331,240,192518422,8126,3404,Tacony Academy Charter School,Tacony Acad CS,1330 Rhawn St,19111,215-742-5200,Open,Elem/Middle/High,K-12,1091,Charter,Charter
+-75.232914947716807,39.96530935064618,241,103519376,8146,3411,Universal Daroff Charter School,Universal Daroff CS,5630 Vine St.,19139,471-2905,Open,Elem/Middle,K-8,688,Charter,Charter
+-75.047001865250792,40.107118891923633,242,326510160,,,Red Lion Elementary School,Red Lion Elem,256 GEIGER RD,19115,(215) 464-8623 ,Open,Elementary School,K-5,61,Private,Private
+-74.985949503735952,40.105073505915897,243,300519545,,,Woodhaven,Woodhaven,2900 Southampton Rd,19154,(215) 671-5220,Open,Special Center,Ungraded,9,Private,Private
+-74.986870402389158,40.104700507221217,244,326510075,,,Northwestern Human Services,Northwestern Human Services,2900 SOUTHAMPTON RD,19154,215-671-5155,Open,Elem/Mid/High,K-12,32,Private,Private
+-75.014546737533976,40.07571059412809,245,300514980,,,Just Children,Just Children,2901 GRANT AVE,19114,215-677-1711,Open,Kindergarten,pre K-K,170,Private,Private
+-74.985669800248061,40.060003450361613,246,226510232,,,Alpha House Nursery & Kindergarten,Alpha House Nursery & kdg,9801 FRANKFORD AVE,19114,(215) 632-3366,Open,Kindergarten,pre K-K,31,Private,Private
+-74.993427615862871,40.058075511324454,247,226510026,,,All Saints Episcopal School,All Saints Episcopal Sch,9571 FRANKFORD AVE,19114,(215) 637-8787,Open,Kindergarten,pre K-K,16,Private,Private
+-75.060136282853719,40.019020419262375,248,226510032,,,Maranatha Baptist Academy,Maranatha Baptist Acad,4525 COMLY ST,19135,(215) 338-9535,Open,Ungraded,Ungraded,,Private,Private
+-75.094007673929909,40.016696251261031,249,300512140,,,Bridge School,Bridge School,1100 Adams Avenue,19111,(215) 342-5000,Open,Vo-tech,Vo-Tech,31,Private,Private
+-75.05643079877234,40.04377554450501,250,226515662,,,Northeast Central Chr Sch,Northeast Central Chr Sch,7200-50 E ROOSEVELT BLV,19149,(215) 624-8046,Open,Kindergarten,pre K-K,10,Private,Private
+-75.078458827508186,40.04038563884771,251,226510068,,,Crystal River Academy,Crystal River Acad,6401 LORETTO AVE,19111,(215) 744-3757,Open,Pre-K,pre K,28,Private,Private
+-75.152812978010488,39.974102359961456,252,226518662,,,St Malachy School,St Malachy School,1409-17 N 11TH ST,19122,(215) 232-0696,Open,Elem/Middle,K-8,194,Private,Archdiocese
+-75.086759007299293,40.031711660354745,253,226518752,,,St Martin of Tours School,St Martin of Tours School,5400 E ROOSEVELT BLV,19124,(215) 533-3050,Open,Elem/Middle,pre K-8,433,Private,Archdiocese
+-74.992932196987041,40.059910013187142,254,226518332,,,St Katherine Siena School,St Katherine Siena Sch,9720-88 FRANKFORD AVE,19114,(215) 637-2181,Open,Elem/Middle,K-8,549,Private,Archdiocese
+-75.209523114039769,39.963914115985524,255,226518062,,,Our Mother of Sorrows/St Ignatius of Loyola School,Our Mother of Sorrows/St Ignatius of Loyola School,632-44 N 43RD ST,19104,215-473-5828,Open,Elem/Middle,pre K-3,274,Private,Archdiocese
+-75.249135909526487,39.969512005494423,256,226517352,,,St Frances Cabrini Regional Catholic School,St Frances Cabrini,405 N 65th St,19151,(215)748-2994,Open,Elem/Middle,pre K-8,267,Private,Archdiocese
+-75.178286247203474,39.913561621712894,257,226519242,,,St Pio Catholic Regional School,St Pio Catholic Regional School,1826 Pollock Street,19145,(215)467-5430,Open,Elem/Middle,pre K-8,266,Private,Archdiocese
+-75.066532764068526,40.035032106275494,258,300518675,,,"Sylvan Learning Center
+",Sylvan Lrn Ctr,6537 Roosevelt Blvd,19149,(215)743-6200,Open,Tutoring,Ungraded,,Private,Private
+-74.977272263272937,40.092660686134309,259,300513270,,,Delta School,Delta School,3515 WOODHAVEN RD,19154,215-632-5904,Open,Elem/Mid/High,K-12,56,Private,Private
+-75.215267015488777,40.082674039204882,260,,,,Norwood Fontbonne Academy (Annex),Norwood Fontbonne Acad,40 E Sunset Avenue,19118,215-247-3811,Open,Elementary School,K-6,258,Private,Private
+-75.214863077276661,40.080508425000041,261,226514502,,,Norwood Fontbonne MS,Norwood Fontbonne MS,8891 Germantown Ave,19118,215-247-3811,Open,Middle School,7-8,91,Private,Private
+-75.209458491741444,40.061339963832914,262,226511002,,,Chestnut Hill Academy,Chestnut Hill Acad,403 W SPRINGFIELD AVE,19118,(215) 247-4700,Open,Elem/Mid/High,pre K-12,491,Private,Private
+-75.212832282801969,40.060821275667806,263,226515802,,,Springside School,Springside School,8000 CHEROKEE ST,19118,(215) 247-7200,Open,Elem/Mid/High,pre K-12,404,Private,Private
+-75.134973518332956,40.017452289737378,264,126513100,7564,3307,Eugenio Maria DeHostos Charter School,Eugenio Maria DeHostos CS,4322 N 05th St,19140,215-455-2300,Open,Elem/Middle,K-8,471,Charter,Charter
+-75.20555097932963,39.970732244332893,265,126513070,7557,3308,Belmont Academy Charter School,Belmont Academy CS,907 North 41st Street,19104,215-386-5768,Open,Elementary School,K4,117,Charter,Charter
+-75.006216508000989,40.113548058924572,266,126513150,7574,3328,MAST Community Charter School,MAST Community CS,1800 E. Byberry Road,19116,267-348-1100,Open,Elem/Mid/High,K-12,1322,Charter,Charter
+-75.017115701266306,40.104874966311854,267,,,3322,Philadelphia Academy Charter School (Annex),Phila Acad CS,1700 Tomlinson Rd,19116,215-673-3990,Open,High School,9-12,484,Charter,Charter
+-75.185443158081526,40.011395877476225,268,177518712,8127,3397,Eastern University Academy Charter School,Eastern Univ Acad CS,"3300 Henry Ave., Ann Preston Hall",19129,267-440-3512,Open,Middle/High,7-12,363,Charter,Charter
+-75.150153893233636,40.01143496198236,269,126513000,7546,3312,Multi-Cultural Academy Charter School ,Multi-Cultural Acad CS,3821-33 N Broad St,19140,215-227-0513,Open,High School,9-12,249,Charter,Charter
+-75.153775517353239,39.99438309116168,270,126510013,7776,3370,KIPP Philadelphia Charter School,KIPP Philadelphia CS,2709 N Broad St,19132,(215)227-1728,Open,Elem/Middle/High,K-12,1149,Charter,Charter
+-75.228470382848798,39.976066575427787,271,126510022,7909,3383,Mastery Charter School at Shoemaker,Mastery CS at Shoemaker,5301 Media St,19131,267-296-7111,Open,Middle School,7-12,735,Charter,Charter
+-75.169150994607534,39.94486817863605,272,126513510,7683,3341,Independence Charter School,Independence CS,1600 Lombard St,19146,215-238-8000,Open,Elem/Middle,K-8,816,Charter,Charter
+-75.143929857779213,39.963859050926523,273,126513110,7565,3310,Laboratory Charter School of Communications and Languages,Laboratory CS of Comm & Lang,800 N Orianna St,19123,215-574-1680,Open,Elem/Middle,K-8,497,Charter,Charter
+-75.154828165024028,40.049272025039677,274,126512980,7542,3309,Imhotep Institute Charter High School,Imhotep CHS,6201 N 21st St,19138,215-438-4140,Open,High School,9-12,624,Charter,Charter
+-75.101868764098413,39.998190732934205,275,126510015,7825,3379,Ad Prima Charter School,Ad Prima CS,3556 Frankford Ave,19134,215-452-5580,Open,Elem/Middle,K-8,539,Charter,Charter
+-75.094498301855097,40.020409818865396,276,126510019,7856,3386,Northwood Academy,Northwood Acad,4621 Castor Ave,19124-3024,215-289-5606,Open,Elem/Middle,K-8,779,Charter,Charter
+-75.245353482640525,39.91657853492552,277,126510016,7828,3378,Philadelphia Montessori Charter School,Phila Montessori Charter School,2227 Island Ave,19142,215-365-4011,Open,Elementary School,pre K-6,178,Charter,Charter
+-75.212671618626445,40.030928778223931,278,126515001,7024,6480,AMY Northwest (St. Terese),AMY Northwest (St. Terese),6000 Ridge Avenue,19119,(215) 487-7600,Open,Middle School,6-8,275,District,District
+-75.076609604616777,40.053505532326334,279,,,3351,Global Leadership Academy Charter School (Annex),Global Leadership Acad CS (Annex),7101 Pennway St,19111,267-236-1157,Open,Elementary School,K-5,,Charter,Charter
+-75.163257684096124,39.912707175535822,280,126510023,7910,2150,Mastery Charter School at Thomas,Mastery CS at Thomas,814 Bigler St,19148,267-296-7000,Open,Elem/Mid/High,K-6,1123,Charter,Charter
+-75.242162094757916,39.94434570880167,281,172510793,8124,1160,KIPP West Philadelphia Preparatory,KIPP West Phila Prep,5900 Baltimore Ave.,19143,(215)294-2973,Open,Middle School,5-8,349,Charter,Charter
+-74.986695741969982,40.085186028838649,282,226510452,,,Archbishop Ryan High School,Archbishop Ryan HS,11201 ACADEMY RD,19154,(215) 651-4471,Open,High School,9-12,1616,Private,Archdiocese
+-75.043631675846783,40.027621212008825,283,226518242,,,St Josaphat Ukrainian Cath School,St Josaphat Ukrainian Cath Sch,4521 LONGSHORE AVE,19135,(215) 332-8008,Open,Elem/Middle,pre K-8,136,Private,Archdiocese
+-75.174399548915815,39.919323025161326,284,226519022,,,St Monica Senior School,St Monica Sr,2500 S 16TH ST,19145,(215) 467-5338,Open,Elem/Middle,6-8,452,Private,Archdiocese
+-75.177535822926345,40.005178883443385,285,226514102,,,Mercy Vocational High School,Mercy Vocational HS,2901 W ALLEGHENY AVE,19129,(215) 226-1225 ,Open,High School,9-12,371,Private,Archdiocese
+-75.149612314223219,39.946051220141833,286,226518902,,,St Marys Interparochial School,St. Mary's Interparochial Sch,440 Locust Street,19106,215-923-7522,Open,Elem/Middle,K-8,247,Private,Archdiocese
+-75.175940274301141,39.953029380338378,287,226511302,,,De La Salle in Town,De La Salle in Town,25 S VAN PELT ST,19103,215-567-5500,Open,High School,9-12,73,Private,Archdiocese
+-75.115937994953157,40.027403939751586,288,,,3399,Sankofa Freedom Academy Charter School (Annex),Sankofa Freedom Acad CS (Annex),401 E Roosevelt Blvd,19124,215-288-2001,Open,High School,9-11,,Charter,Charter
+-74.985049067316453,40.087577987974385,289,226518722,,,St Martha School,St Martha School,11301 ACADEMY RD,19154,(215) 632-0320,Open,Elem/Middle,pre K-8,359,Private,Archdiocese
+-75.038992201273103,40.08192296248432,290,226514052,,,Maternity BVM School,Maternity BVM Sch,9322 Old Bustleton Ave,19115,(215) 673-0235,Open,Elem/Middle,pre K-8,505,Private,Archdiocese
+-74.978296656249142,40.07930241604155,291,226514852,,,Our Lady of Calvary School,Our Lady of Calvary Sch,11024 KNIGHTS RD,19154,(215) 637-1648,Open,Elem/Middle,pre K-8,741,Private,Archdiocese
+-74.995300520647959,40.075282314099219,292,226511102,,,Christ the King School,Christ the King Sch,3201 CHESTERFIELD RD,19114,(215) 632-1375,Open,Elem/Middle,K-8,357,Private,Archdiocese
+-75.210184742915004,40.079267788964799,293,226515302,,,Our Mother of Consolation,Our Mother Consolation,7-29 E CHESTNUT HILL AVE,19118,215-247-1060,Open,Elem/Middle,pre K-8,161,Private,Archdiocese
+-75.18871677198355,40.061750090378688,294,226512152,,,Holy Cross School,Holy Cross School,148-54 E MOUNT AIRY AVE,19119,(215) 242-0414,Open,Elem/Middle,K-8,150,Private,Archdiocese
+-75.030233257835903,40.055650040922139,295,226518092,,,St Jerome School,St Jerome School,2950 HOLME AVE,19136,(215) 624-0637,Open,Elem/Middle,pre K-8,534,Private,Archdiocese
+-75.062448075507334,40.053400096487138,296,226515552,,,Resurrection Regional Catholic School,Resurrection Sch,2020 Shelmire Ave.,19152,(215)742-1127,Open,Elem/Middle,pre K-8,559,Private,Archdiocese
+-75.023397109018262,40.048201567923158,297,226511602,,,Father Judge High School,Father Judge HS,3301 SOLLY AVE,19136,215.338.9494,Open,High School,9-12,1136,Private,Archdiocese
+-75.129065538178992,40.044446130587922,298,226517902,,,St Helena Incarnation Regional Catholic School,St Helena School,6106 N 5th St,19120,(215) 549-2947,Open,Elem/Middle,K-8,495,Private,Archdiocese
+-75.237895523918723,39.97508106864283,299,226519282,,,St Rose of Lima School,St Rose of Lima Sch,1508 N  Wanamaker St,19131,(215) 473-6030,Open,Elem/Middle,pre K-8,202,Private,Archdiocese
+-75.234536126213598,40.064420771686798,300,226512702,,,Immaculate Heart of Mary School,Immaculate Heart of Mary Sch,815-23 CATHEDRAL RD,19128,215-482-2029,Open,Elem/Middle,pre K-8,410,Private,Archdiocese
+-75.154086869040142,40.061700347144978,301,226516302,,,St Athanasius Immaculate Conception School,St Athanasius Immaculate Con,7105 Limekiln Pike,19138,(215) 424-5045,Open,Elem/Middle,pre K-8,281,Private,Archdiocese
+-75.081283165884855,40.077088374724902,302,226517052,,,St Cecilia School,St Cecilia School,535 RHAWN ST,19111,(215) 725-8588,Open,Elem/Middle,K-8,669,Private,Archdiocese
+-75.16956467831875,39.995555316701321,303,226517252,,,St Martin de Porres School,St Martin de Porres School,2300-36 W LEHIGH AVE,19132,(215) 223-6872,Open,Elem/Middle,K-8,398,Private,Archdiocese
+-75.102018973530008,39.984962673838304,304,226514552,,,Our Lady of Port Richmond School,Our Lady of Port Richmond Sch,2639 E ALLEGHENY AVE,19134,(215) 739-1920,Open,Elem/Middle,pre K-8,424,Private,Archdiocese
+-74.973706753544064,40.102260991469286,305,226516202,,,St Anselm Elementary School,St Anselm Elem,12656 DUNKS FERRY RD,19154,(215) 632-1133,Open,Elem/Middle,pre K-8,373,Private,Archdiocese
+-75.010035469466217,40.124454772125979,306,226517152,,,St Christopher School,St. Christopher Sch,13301 PROCTOR RD,19116,215-673-5787,Open,Elem/Middle,pre K-8,550,Private,Archdiocese
+-75.227012392642052,39.92197632601048,307,226516452,,,"Mary, Mother of Peace Area Catholic School/St Barnabas","Mary, Mother of Peace Area Catholic Sch",6334 Buist Ave,19142,(215) 729-3603,Open,Elem/Middle,pre K-8,239,Private,Archdiocese
+-75.193706311097202,39.935268989938201,308,226517702,,,St Gabriel School,St Gabriel School,1432 S  29TH ST,19146,215-468-7230,Open,Elem/Middle,pre K-8,159,Private,Archdiocese
+-75.015576669005057,40.046904572169957,309,226517302,,,St Dominic School,St Dominic School,8504  FRANKFORD AVE,19136,(215) 333-6703,Open,Elem/Middle,pre K-8,391,Private,Archdiocese
+-75.21549466742519,39.947776065754816,310,226517552,,,St Francis Desales School,St Francis Desales Sch,917 S 47TH ST,19143,(215) 387-1749,Open,Elem/Middle,K-8,521,Private,Archdiocese
+-75.16292789655995,39.927391528025069,311,226518692,,,SS John Neumann and Maria Goretti Catholic High School,SS John Neumann & Maria Goretti Catholic HS,1736 S 10TH ST,19148,(215) 465-8437,Open,High School,9-12,662,Private,Archdiocese
+-75.034324091463603,40.031355551589108,312,226518002,,,St Huberts Catholic High School,St Huberts Cath HS,7320 TORRESDALE AVE,19136,(215) 624-6840,Open,High School,9-12,675,Private,Archdiocese
+-75.126793894163697,39.989894420763342,313,226519752,,,Visitation School,Visitation School,300-40 E LEHIGH AVE,19125,(215) 634-7280,Open,Elem/Middle,pre K-8,408,Private,Archdiocese
+-75.211695595726908,39.957254156574102,314,226519902,,,West Philadelphia Catholic High School,West Phila Cath HS,4501-17 CHESTNUT ST,19139,(215)386-2244,Open,High School,9-12,373,Private,Archdiocese
+-75.174692269845181,39.93040202507202,315,226519382,,,St Thomas Aquinas School,St Thomas Aquinas Sch,1616 S  17TH ST,19145,(215) 334-0878,Open,Elem/Middle,pre K-8,208,Private,Archdiocese
+-75.167117829181748,40.071991440947059,316,226519222,,,St Raymond School,St Raymond School,1330 VERNON RD,19150,(215) 548-1919,Open,Elem/Middle,pre K-8,263,Private,Archdiocese
+-75.06042712925931,40.030793515536494,317,226519422,,,Blessed Trinity Regional Catholic School,Blessed Trinity Regional Cath Sch,3001 LEVICK ST,19149,(215) 338-9797,Open,Elem/Middle,1-8,466,Private,Archdiocese
+-75.144876683945512,39.969594475309158,318,226519142,,,St Peter the Apostle School,St Peter the Apostle Sch,1019 N 05th St,19123,(215) 922-5958,Open,Elem/Middle,pre K-8,188,Private,Archdiocese
+-75.049967886854716,40.041441349462161,319,226518932,,,St Matthew School,St Matthew School,3000 COTTMAN AVE,19149,(215) 333-3142,Open,Elem/Middle,pre K-8,835,Private,Archdiocese
+-75.12965629280859,39.976776858594171,320,226518422,,,St Laurentius School,St Laurentius School,1612 E BERKS ST,19125,(215) 423-8834,Open,Elem/Middle,K-8,214,Private,Archdiocese
+-75.144716085164703,40.013520718632712,321,226512952,,,Little Flower Catholic School,Little Flower Cath Sch,1001 W LUZERNE ST,19140,215-455-6900,Open,High School,9-12,750,Private,Archdiocese
+-75.101610154559225,40.011696283386158,322,226510502,,,Archbishop Ryan Academy for the Deaf,Archbishop Ryan Sch Hard of Hearing Children,4251 L Street,19124,(215) 289-4220,Open,Elem/Middle,K-8,8,Private,Archdiocese
+-75.138975382081028,40.004912120013373,323,226519442,,,St Veronica School,St Veronica School,3501-25 N 06TH ST,19140,(215) 225-1575,Open,Elem/Middle,K-8,200,Private,Archdiocese
+-75.093348782548389,39.988589105915636,324,226517752,,,St George School,St George School,2700 E VENANGO ST,19134,(215) 634-8803,Open,Elem/Middle,pre K-8,197,Private,Archdiocese
+-75.110274046628874,39.981496262265324,325,226514252,,,Mother of Divine Grace School,Mother of Divine Grace Sch,2612 E MONMOUTH ST,19134,(215) 426-7325,Open,Elem/Middle,pre K-8,214,Private,Archdiocese
+-75.217617326017191,39.970644710214863,326,226515352,,,Our Mother of Sorrows/St. Ignatius of Loyola School,Our Mother of Sorrows/St. Ignatius of Loyola ,1008 N 48th Street,19131,(215) 473-5828,Open,Elem/Middle,4-8,250,Private,Archdiocese
+-75.176866123236195,39.966571817534927,327,226517652,,,St Francis Xavier School,St Francis Xavier Sch,641-51 N 24TH ST,19130,(215) 763-6564,Open,Elem/Middle,pre K-8,206,Private,Archdiocese
+-75.169432594096747,39.959897858318705,328,226512852,,,John W Hallahan Girls School,John W Hallahan Girls Sch,319 N 19TH ST,19103,(215) 563-8930,Open,High School,9-12,567,Private,Archdiocese
+-75.161964197570896,39.958299539482176,329,226515602,,,Roman Catholic High School,Roman Catholic HS,303 N BROAD ST,19107,215-627-1270,Open,High School,9-12,1065,Private,Archdiocese
+-75.154984734380292,39.957549828538731,330,226512352,,,Holy Redeemer School,Holy Redeemer School,903-27 VINE ST,19107,215-922-0999,Open,Elem/Middle,K-8,279,Private,Archdiocese
+-75.176270570390173,39.920963430520146,331,,,,St Monica Junior School (Annex),St Monica Jr,1700  RITNER ST,19145,215-334-3777,Open,Elem/Middle,pre K-5,613,Private,Archdiocese
+-75.163004888504858,40.027117512053472,332,226517602,,,DePaul Catholic School,DePaul Catholic Sch,44 W LOGAN ST,19144,(215) 842-1266,Open,Elem/Middle,pre K-8,299,Private,Archdiocese
+-75.141146215721079,39.983400390606505,333,126515001,5293,5350,"McKinley, William","McKinley, William",2101 Orkney St.,19122 - 1546,291-4702,Open,Elem/Middle,K-8,479,District,District
+-75.168018335684209,39.964895108073939,334,126515001,7225,2490,"Waring, Laura W.","Waring, Laura W.",1801-27 Green St.,19130 - 3904,684-5073,Open,Elem/Middle,K-8,326,District,District
+-75.212488568295768,39.961936355737443,335,126515001,4732,1470,"Locke, Alain","Locke, Alain",4550  Haverford Ave.,19139 - 2825,823-8202,Open,Elementary School,K-8,457,District,District
+-75.193627665661737,39.960320958986557,336,126515001,3783,1390,"Powel, Samuel","Powel, Samuel",301 N 36th St,19104 - 2471,823-8201,Open,Elementary School,K-4,259,District,District
+-75.153872752993124,39.936730773522704,337,126515001,3650,2590,"Nebinger, George W.","Nebinger, George W.",601 Carpenter St.,19147 - 2907,952-6202,Open,Elem/Middle,K-8,335,District,District
+-75.155534494132027,39.917110915166084,338,126515001,3657,2690,"Taggart, John H.","Taggart, John H.",400 W. Porter St.,19148 - 3921,952-6228,Open,Elem/Middle,K-8,420,District,District
+-75.138640233486271,39.992635478529529,339,126515001,7175,5170,DeBurgos Bilingual Magnet MS,"deBurgos, Julia",401 W. Lehigh Ave.,19133 - 3111,291-4065,Open,Elem/Middle,K-8,753,District,District
+-74.976629436488764,40.080415273116685,340,126515001,3781,8390,"Fitzpatrick, Aloysius L.","Fitzpatrick, Aloysius L.",11061 Knights Rd.,19154 - 3516,281-2602,Open,Elem/Middle,K-8,877,District,District
+-75.114277969518639,39.999520096947599,341,126515001,3800,5530,"Sheridan, Philip H.","Sheridan, Philip H.",800 E Ontario St.,19134 - 1309,291-4724,Open,Elementary School,K-4,723,District,District
+-75.180109235542176,39.980705078309867,342,126515001,3626,4560,"Kelley, William D.","Kelley, William D.",1601 N. 28th St.,19121 - 2701,684-5071,Open,Elem/Middle,K-8,431,District,District
+-75.245753880096032,39.98175493789519,343,126515001,7472,4370,Overbrook Elementary School,Overbrook Elem,2032 N 62nd St,19151 - 3206,581-5691,Open,Elementary School,K-6,233,District,District
+-75.238546135076717,39.96432996882367,344,126515001,8029,1200,"Barry, Commodore John","Barry, Commodore John",5900  Race St,19139 - 2304,215-471-2744,Open,Elem/Middle,K-8,836,District,District
+-74.97398929966657,40.082711079160013,345,126515001,8039,8040,Arts Academy at Benjamin Rush,Arts Acad at Benjamin Rush,11081 Knights Rd.,19154,281-2603,Open,High School,9-12,603,District,District
+-75.119656942360308,40.02021738492212,346,126515001,3732,7200,"Barton, Clara (Feltonville)","Barton, Clara (Feltonville)",4600 Rosehill St.,19120 - 4446,456-3007,Open,Elementary School,K-2,838,District,District
+-75.154458310708151,39.985488119771979,347,126515001,7850,5050,Philadelphia Military Academy at Elverson,Phila Military Academy at Elverson,2118-60 N 13th St,19122,684-5091,Open,High School,9-12,306,District,District
+-75.215795330615833,39.964441377138044,348,126515001,7022,1580,Middle Years Alternative,Middle Years Alt,4725 Fairmount Ave,19139,581-5633,Open,Middle School,5-8,252,District,District
+-75.111646287598063,40.012807492089031,349,126515001,7963,7150,Juniata Park Academy,Juniata Park Acad,801 E Hunting Park Ave,19140,291-5680,Open,Elem/Middle,K-8,1115,District,District
+-74.970680063258484,40.095599531859826,350,126515001,4727,8420,"Decatur, Stephen","Decatur, Stephen",3500 Academy Rd.,19154 - 2047,281-2606,Open,Elem/Middle,K-8,1040,District,District
+-75.042778556179798,40.043827656751326,351,126515001,3845,8010,"Lincoln, Abraham","Lincoln, Abraham",3201 Ryan Ave,19136,335-5653,Open,High School,9-12,1522,District,District
+-75.146139402439587,40.025535323166224,352,126515001,7239,7100,"Cooke, Jay","Cooke, Jay",1300 W. Loudon St,19141,456-3002,Open,Elem/Middle,K-8,498,District,District
+-75.178361725155298,40.002454641818225,353,126515001,6522,4150,"Rhodes, E. Washington","Rhodes, E. Washington",2900 W Clearfield St.,19132,227-4402,Open,Elementary/Middle,K-8,585,District,District
+-75.133306408861031,39.977099536332219,354,126515001,7852,5520,Kensington Creative and Performing Arts High School,Kensington CAPA HS,1901 N. Front St.,19125,291-4700,Open,High School,9-12,503,District,District
+-75.129076712694072,39.978756643309325,355,226510512,,,Bethel Baptist Academy,Bethel Baptist Acad,2210 E SUSQUEHANNA AVE,19125,(215) 426-1909,Open,Elem/Mid/High,pre K-12,53,Private,Private
+-75.242583651506479,39.919980918915009,356,226511922,,,Greater Hope Christian Academy,Greater Hope Christian Acad,7029 WOODLAND AVE,19142,215-729-0374,Open,Elem/Mid/High,K-12,114,Private,Private
+-75.211354294540669,39.955476851156305,357,226512762,,,Islamic Education School,Islamic Education Sch,4431-39 WALNUT ST,19104,(215) 387-8888,Open,Elem/Middle,pre K-8,50,Private,Private
+-75.243334411189693,39.960552634375759,358,226512872,,,Kids World Christian Education Center- West Philadelphia,Kids World Christian Ed Ctr- West Phila,100-04 S 61ST ST,19139,(215) 474-1484,Open,Elementary School,pre K-4,14,Private,Private
+-75.252434051890262,39.971953719736184,359,226510011,,,Shepherds Christian Academy,Shepherds Christian Acad,6634-42 HAVERFORD AVE,19151,(215) 476-4101,Open,Elementary School,pre K-5,105,Private,Private
+-75.218521432045236,39.937524795371885,360,226512962,,,Little Footsteps Islam Institute,Little Footsteps Islam Ins,5314 YOCUM ST,19143,(215) 724-5568,Open,Elem/Middle,pre K-8,36,Private,Private
+-75.185926134366653,40.02270014679624,361,226515412,,,William Penn Charter School,William Penn CS,3000 W School House La,19144,(215) 844-3460,Open,Elem/Mid/High,pre K-12,921,Private,Private
+-75.222383059509994,39.954404885729645,362,226510695,,,Beulah Baptist Christian Day School,Beulah Baptist Christian Day Sch,5001 Spruce St,19139,(215) 747-3347,Open,Elem/Middle,K-8,94,Private,Private
+-75.08719642580823,40.015350402537223,363,226511622,,,Frankford Friends School,Frankford Friends School,1500 ORTHODOX ST,19124,(215) 533-5368,Open,Elem/Middle,pre K-8,120,Private,Private
+-75.18356851193505,40.049059670867067,364,226515532,,,Project Learn,Project Learn,6519-25 GERMANTOWN AVE,19119,(215) 438-3623,Open,Elem/Middle,K-8,65,Private,Private
+-75.172212304699528,40.042552141119991,365,226512992,,,Lotus Academy,Lotus Academy,334 E HAINES ST,19144,(215) 438-7500,Open,Elem/Middle,pre K-8,86,Private,Private
+-75.181742260874472,39.910122208114664,366,226510722,,,Calvary Temple Christian Academy,Calvary Temple Chrst Acad,3301 S  20TH  ST,19145,(215) 462-2822,Open,Elem/Middle,pre K-8,121,Private,Private
+-75.179452993401554,39.979653395655056,367,226515700,,,Academy of Essential Knowledge,Acad of Essential Knowledge,1546 N 27th St,19121,215-763-1601,Open,Elementary School,K-12,54,Private,Private
+-75.222362139796942,39.947470862428965,368,226511235,,,Crooked Places Made Straight,Crooked Places Made Straight,711-13 S 50TH ST,19143,(215) 726-4151,Open,Elem/Mid/High,K-12,101,Private,Private
+-75.121728938297977,40.026547878488557,369,226510029,,,Better Way Christian Academy,Better Way Christian Acad,4950 Rising Sun avenue,19120,215-745-8910,Open,Elem/Mid/High,K-12,22,Private,Private
+-75.172562188563504,39.976177987571738,370,226512642,,,Hope Christian Academy,Hope Christian Acad,2222 MASTER ST,19121,(215) 236-6744,Open,Elementary School,pre K-6,8,Private,Private
+-74.985925744923861,40.056809008914549,371,226514352,,,Nazareth Academy Grade School,Nazareth Acad Grade Sch,4701 Grant Ave,19114,215-637-7777,Open,Elem/Middle,1-8,233,Private,Private
+-74.987627520572559,40.059143106621555,372,226514402,,,Nazareth Academy High School,Nazareth Acad HS,4001 GRANT AVE,19114,(215) 637-7676,Open,High School,9-12,432,Private,Private
+-75.161672654547118,39.940108075463762,373,126515001,7904,2620,Academy at Palumbo,Acad at Palumbo,1100  Catharine St,19147,351-7618,Open,High School,9-12,858,District,District
+-75.238646008533834,40.051593563057253,374,126515001,3725,6380,Shawmont,Shawmont,535 Shawmont Ave,19128 - 4032,487-4466,Open,Elem/Middle,K-8,520,District,District
+-75.09731197599227,39.985383038046081,375,126515001,6823,5430,"AMY, at James Martin","AMY, at James Martin",3350 Richmond St,19134,291-4172,Open,Middle School,6-8,405,District,District
+-75.126532819825925,39.981146133416395,376,126515001,5120,5300,"Hackett, Horatio B.","Hackett, Horatio B.",2161 E York St,19125 - 2141,291-4706,Open,Elementary School,K-5,325,District,District
+-75.238647003007458,39.957567876470513,377,126515001,7245,1100,"Sayre, William","Sayre, William",5800  Walnut St.,19139,471-2904,Open,High School,9-12,539,District,District
+-75.227160086425997,39.953431551213377,378,126515001,3807,1330,"Huey, Samuel B.","Huey, Samuel B.",400 S 52nd St,19143 - 4111,471-2901,Open,Elem/Middle,K-8,562,District,District
+-75.19784214895428,39.93509704177157,379,126515001,3617,2200,Universal Alcorn Charter Elementary School,"Alcorn, James",1500 S 32ND st,19146 - 3301,952-6219,Open,Elem/Middle,K-8,788,Charter,Charter
+-75.126705246685233,40.015458913274088,380,126515001,8120,5030,Philadelphia Learning Academy North (Alt Ed at Hunting Park),Alt Ed Hunting Park,4224-50 N. Front St.,19140,267-331-3067,Open,Middle/High,7-12,327,District,District
+-75.248057763089648,39.906770707539394,381,126515001,7815,1190,Motivation High School,Motivation HS,2515 S 78th St,19153,492-6451,Open,High School,9-12,295,District,District
+-75.17484379977391,40.081112573642649,382,126515001,3719,6310,"McCloskey, John F.","McCloskey, John F.",8500 Pickering St.,19150 - 1028,248-6600,Open,Elementary School,K-8,455,District,District
+-75.189953916267868,40.037418236249088,383,126515001,3717,6440,"Lingelbach, Anna L.","Lingelbach, Anna L.",6340 Wayne Ave.,19141 - 3113,951-4090,Open,Elem/Middle,K-8,374,District,District
+-75.152185927799735,40.030529281115207,384,126515001,3718,6300,"Logan, James","Logan, James",1700 Lindley Ave.,19141 - 1545,456-3006,Open,Elementary School,K-5,269,District,District
+-75.148184898635435,39.963914291301847,385,126515001,3645,5480,"Kearny, General Philip","Kearny, General Philip",601 Fairmount Ave.,19123 - 2701,351-7343,Open,Elem/Middle,K-8,435,District,District
+-75.132298149498382,39.987097813792154,386,126515001,3693,5330,"Hunter, William","Hunter, William",2400-54 N Front St,19133,291-4710,Open,Elem/Middle,K-8,505,District,District
+-75.205702922926704,39.95697598792313,387,126515001,7780,1050,Paul Robeson High School for Human Services,Paul Robeson HS,4125  Ludlow,19104,823-8207,Open,High School,9-12,277,District,District
+-75.197049077545813,40.062268789184344,388,126515001,6548,5070,Parkway Northwest (New Covenant),Parkway Northwest (New Covenant),7500 Germantown Ave.,19139,248-6220,Open,High School,9-12,221,District,District
+-75.207024403945823,40.022601250415434,389,126515001,5122,6410,Cook-Wissahickon,Cook-Wissahickon,531 Righter St.,19128 - 3739,487-4463,Open,Elem/Middle,K-8,403,District,District
+-75.158819791510354,40.011166924018212,390,126519644,8259,4260,Mastery Charter School at Grover Cleveland,Master CS - Cleveland,3701 N 19th St,19140 - 3555,215-277-5042,Open,Elem/Middle,K-8,511,Charter,Charter
+-75.184005642506605,39.997134104355496,391,126515001,5292,4440,Allen Dr Ethel Sch,Allen Dr Ethel Sch,3200 W Lehigh Ave.,19132 - 1834,227-4404,Open,Eleme/Middle,K-8,581,District,District
+-75.180766959617515,39.984373067306116,392,126515001,3625,4530,"Gideon, Edward","Gideon, Edward",2817 W.  Glenwood Ave.,19121 - 1810,684-5072,Open,Elem/Middle,K-8,353,District,District
+-75.215823169762189,39.964850847026995,393,126515001,7808,5090,Parkway West,Parkway West,4725 Fairmount Ave,19139-3536,581-5510,Open,High School,9-12,292,District,District
+-75.23383820311814,39.921939489569596,394,126515001,3847,1010,"Bartram, John","Bartram, John",2401 S 67th St,19142,492-6450,Open,High School,9-12,892,District,District
+-75.20335582658744,39.975303698792018,395,126515001,7903,1030,School of the Future,School of the Future,4021 Parkside Ave,19104,215-823-5500,Open,High School,9-12,613,District,District
+-75.122094993702362,40.019375294784517,396,126515001,7368,7500,Feltonville School of Arts and Science,Feltonville Sch of Arts & Sci.,210 E Courtland St,19120,215-456-5603,Open,Middle School,6-8,545,District,District
+-75.252609236853559,40.062393596602767,397,126515001,7811,6540,Lankenau,Lankenau,201 Spring Lane,19128,487-4465,Open,High School,9-12,314,District,District
+-75.168651384400093,40.058659490455724,398,126515001,3706,6200,"Day, Anna Blakiston","Day, Anna Blakiston",6324-42 Crittenden St,19138 - 1037,276-5250,Open,Elem/Middle,pre K-8,464,District,District
+-75.072603529240894,40.037172760054311,399,126515001,7234,8350,"Spruance, Gilbert","Spruance, Gilbert",6401 Horrocks St,19149 - 2816,537-2514,Open,Elem/Middle,K-8,1395,District,District
+-75.120984216865295,40.020353904016076,400,126515001,3751,7310,Feltonville Intermediate School,Feltonville Intermediate Sch,238 E. Wyoming Ave.,19120,456-3012,Open,Elementary School,3-5,708,District,District
+-75.135191067622813,40.01795509672742,401,126515001,7404,5490,Cayuga,Cayuga,4344-4358 N. 5th St,19140 - 2302,456-3167,Open,Elementary School,K-5,437,District,District
+-75.147720092737742,40.003614074931214,402,126515001,5183,7510,"Bethune, Mary Mc Leod","Bethune, Mary Mc Leod",3303-61  Old York Rd.,19140,227-4433,Open,Elem/Middle,K-8,753,District,District
+-75.23813815772661,39.992732307929089,403,126515001,3668,4280,"Gompers, Samuel","Gompers, Samuel",5701  Wynnefield Ave.,19131 - 1237,581-5503,Open,Elementary School,K-6,364,District,District
+-75.127707719387928,39.98679014002375,404,126515001,3684,5210,"Brown, Henry A.","Brown, Henry A.",1946 E Sergeant St.,19125 - 1341,291-4717,Open,Elementary School,K-8,575,District,District
+-75.102140181489759,39.999605980547138,405,226510057,,,Kensington Christian Fellowship Academy,Kensington Christian Fellowship Acad,1921-25 E VENANGO ST,19134,(215) 535-6424,Open,Elementary School,pre K-6,12,Private,Private
+-75.101378450721029,40.012116013520171,406,226512252,,,Holy Innocents School,Holy Innocents School,1301 E HUNTING PARK AVE,19124,(215) 743-5909,Open,Elem/Middle,pre K-8,274,Private,Archdiocese
+-75.101625719587148,40.011219997728382,407,226518542,,,St Lucy Day School For Children With Visual Impairments,St Lucy Day Sch For Children w/ Visual Impair,1301 E HUNTING PARK AVE,19124,(215) 289-4220,Open,Elem/Middle,pre K-8,28,Private,Archdiocese
+-75.156340150860913,40.006952641237035,408,226510064,,,Spring Garden Academy - Tioga,Spring Garden Acad - Tioga,3501-05 N 17TH ST,19140,(215)563-9192,Open,Elem/Middle,pre K-8,,Private,Private
+-75.157845206579765,40.002512094537771,409,300518830,,,Thankful Learning Center Inc,Thankful Lrn Ctr,3200-02 N 17TH ST,19140,(215) 226-5544,Open,Pre-school,Preschool,10,Private,Private
+-75.151098541206878,40.002750415901374,410,226510063,,,Education is the Key Learning Center,Education is the Key Lrn Ctr,3257 N PARK AVE,19140,(215) 228-0122,Open,Elem/Middle,Pre K-7,11,Private,Private
+-75.098367895989,39.99857168541601,411,226510070,,,Tarbiyatul ILM Academy Inc.,Tarbiyatul ILM Acad,2080 Castor Ave,19132,(215) 821-3869,Open,Elem/Middle,K-8,84,Private,Private
+-75.16327163534163,40.041740927545391,412,226510031,,,Kids World Christian Education Center- Germantown,Kids World Christian Ed Center- Germantown,629 E Church Lane,19144,(215) 848-1800,Open,Elementary School,pre K-5,20,Private,Private
+-75.182484404821253,40.004258477855139,413,226510073,,,St James School,St James School,3201-29 W CLEARFIELD ST,19132,(215) 226-1276,Open,Middle School,5-8,32,Private,Private
+-75.186092998470144,40.001663956557117,414,300515320,,,Prodigy Learning Centers,Prodigy Lrn Ctrs,3345 W HUNTING PARK AVE,19132,(215) 228-7678,Open,Elementary School,pre K-3,75,Private,Private
+-75.178788784011445,40.067470852113559,415,226510001,,,"LuBels House of Learning Christian Academy, Inc",LuBels House of Lrn Christian Acad,8123 STENTON AVE,19150,(215) 242-4663,Open,Pre-K,pre K,10,Private,Private
+-75.172552891105141,40.063852644065882,416,226510041,,,Performing Arts Christian Education,Performing Arts Christian Ed,7827 STENTON AVE,19150,(215) 549-4559,Open,Ungraded,Ungraded,0,Private,Private
+-75.134174957767485,40.05994269590699,417,226510061,,,Nest International Christian Academy,Nest International Christian Acad,1001 70TH AVE,19126,(215) 927-1947 ,Open,Pre-K,pre K,4,Private,Private
+-75.149213667454987,40.052100237669706,418,226514262,,,Mt Airy Christian Day School,Mt Airy Christian Day Sch,6401 OGONTZ AVE,19126,(215) 276-2990,Open,Pre-school,Preschool,26,Private,Private
+-75.151567517466702,40.050893119366535,419,300510078,,,Johnson Child Care Center,Johnson Child Care Ctr,1919 MEDARY AVE,19141,215 927 6677,Open,Pre-K,pre K,137,Private,Private
+-75.155853430924992,40.047681543946076,420,226511712,,,Adelaide Educational Academy Center,Adelaide Ed Acad Ctr,6100 N 21ST ST,19138,(215) 844-5000,Open,Pre-K,pre K,27,Private,Private
+-75.139921351491381,40.041016858703244,421,226515695,,,Saints Tabernacle Day School,Saints Tabernacle Day Sch,5800 N MARVINE ST,19141,(215) 548-6011,Open,Elem/Middle,K-8,55,Private,Private
+-75.145054619598852,40.028650267142275,422,226510004,,,Logan Hope School,Logan Hope Sch,4934 N 13TH ST,19141,(215) 455-7442,Open,Elem/Middle,K-8,60,Private,Private
+-75.114178123753916,40.047368761839593,423,226510049,,,Gold Star Academy,Gold Star Acad,214 FARISTON DR,19120,,Open,,,0,Private,Private
+-75.19725238750415,40.063467941015247,424,300517255,,,Waldorf School of Philadelphia,Waldorf Sch of Phila,7500 GERMANTOWN AVE,19119,(215) 248-1662,Open,Elem/Middle,pre K-8,184,Private,Private
+-75.196110667812107,40.062406142812726,425,226510000,,,Covenant Academy,Covenant Academy,7406 GERMANTOWN AVE,19119,(215)247-7500,Open,Kindergarten,pre K-K,9,Private,Private
+-75.188670494665047,40.065970836774845,426,300518770,,,Big Backyard,Big Backyard,226 E GOWEN AVE,19119,(215) 248-0919,Open,Pre-K,pre K,45,Private,Private
+-75.186233382556125,40.06192233752477,427,226512752,,,Islamic Day School of Philadelphia,Islamic Day Sch of Phila,222 E DURHAM ST,19119,(215) 248-0896,Open,Elementary School,pre K-4,8,Private,Private
+-75.185934304852935,40.053350171785439,428,226510019,,,Jesus Is The Way Christian Academy,Jesus Is The Way Christian Acad,6753 GERMANTOWN AVE,19119,(215) 843-0523,Open,Ungraded,Ungraded,14,Private,Private
+-75.191262010029234,40.039531325646948,429,300512880,,,Cooperative Nursery School,Cooperative Nursery Sch,6503 LINCOLN DR,19119,(215) 844-5770,Open,Pre-K,pre K,39,Private,Private
+-75.18259591628545,40.041345786501353,430,226510053,,,Miller Homeschool,Miller Homeschool,84 W WASHINGTON LA,19144,(215) 384-7464,Open,Elementary School,pre K-5,2,Private,Private
+-75.16734970305707,40.043460656108032,431,226511012,,,Chelten Christ Little People,Chelten Christ Little People,601-05 E CHELTEN AVE,19144,(215) 849-6614,Open,Kindergarten,pre K-K,24,Private,Private
+-75.149582094138296,40.012854658353042,432,226510047,,,New Hope Christian Academy,New Hope Christian Acad,1345 McFerran Street,19140,(215) 391-0003,Open,Elem/Mid/High,pre K-12,,Private,Private
+-75.211991267577972,40.026505529645249,433,326510170,,,Bridge Way School,Bridge Way School,4101 Freeland Ave,19128,(267) 437-2194,Open,Ungraded,Ungraded,1,Private,Private
+-75.185454302387413,40.011558812909449,434,326510062,,,Seedlings Early Care and Education Program,Seedlings Early Care & Ed Program,3300 HENRY AVE,19129,215-254-2002,Open,Pre-K,pre K,73,Private,Private
+-75.251854169361778,39.985299869453144,435,226510038,,,Loving Care Academy,Loving Care Acad,6371 DREXEL RD,19151,(215) 879-8911,Open,Elem/Mid/High,1-12,43,Private,Private
+-75.252946764261637,39.98828265843715,436,300516560,,,Overbrook Presby Church Preschool & Kindergarten,Overbrook Presby Church Presch & Kdg,6376-78 CITY AVE,19151,215) 877-8945,Open,Kindergarten,pre K-K,137,Private,Private
+-75.021991441319713,40.100847847411707,437,326510175,,,Ann Kids,Ann Kids,10100 Jamison Ave,19116,(215)869-0275,Open,Pre-school,Preschool,,Private,Private
+-75.214793319895207,39.99800661122206,438,300515921,,,Methodist Services for Children and Families,Methodist Services for Children and Families,4300 MONUMENT RD,19131,215-877-1925,Open,Kindergarten,pre K-K,10,Private,Private
+-75.209888957379221,40.003502126315318,439,226510043,,,Sharon Christian Academy,Sharon Christian Acad,3955-69 CONSHOHOCKEN AVE,19131,(215) 473-3446,Open,Elementary School,K-6,100,Private,Private
+-75.211290770671539,40.002937158655904,440,300513640,,,Easter Seals of Southeastern Pa - Joseph X. Yaffe Center,Easter Seals of SE PA - Joseph X. Yaffe Ctr,3975 CONSHOHOCKEN AVE,19131,(215) 879-1000,Open,Special Center,Ungraded,55,Private,Private
+-75.20811087902716,39.999564893814402,441,,,,Easter Seals of Southeastern Pa- Early Intervention (Annex),Easter Seals of SE PA- Early Intervention,3905 Ford Road,19131,(215)879-5010,Open,Special Center,Ungraded,125,Private,Private
+-75.210363389989851,40.003520911828318,442,226510072,,,K W Reed Christian Academy for Boys,K W Reed Christian Acad for Boys,3955 CONSHOHOCKEN AVE,19131,(215) 473-3000,Open,Elem/Middle,K-8,70,Private,Private
+-75.20767057385531,39.999705904023941,443,326510077,,,Wordsworth Academy,Wordsworth Acad,3905 FORD RD,19131,215-643-5400,Open,Elem/Mid/High,K-12,74,Private,Private
+-75.172652770259631,39.984751497165234,444,326510079,,,Community Partnership School,Community Partnership Sch,1922-42 JUDSON ST,19121,(215) 235-0461,Open,Elementary School,pre K-5,83,Private,Private
+-75.17570290297779,39.982804267873654,445,226510008,,,White Dove Performing Arts Acad,White Dove Performing Arts Acad,2510 RIDGE AVE,19121,(215) 236-7195,Open,Elem/Mid/High,K-12,5,Private,Private
+-75.164355317593419,39.973706911764012,446,226511802,,,Gesu School,Gesu Sch,1701-33 W GIRARD AVE,19121,(215) 763-3660,Open,Elem/Middle,pre K-8,420,Private,Archdiocese
+-75.160514987725463,39.971843453491282,447,226515632,,,Philadelphia Academic School,Phila Academic Sch,1421 W GIRARD AVE,19130,(215) 477-1040,Open,High School,12,14,Private,Private
+-75.161448481314522,39.97454204830661,448,226510062,,,Shiloh Christian Academy,Shiloh Christian Acad,1516-34 MASTER ST,19121,215-763-7335 ,Open,Elem/Middle,K-8,70,Private,Private
+-75.165675948950764,39.984919080811707,449,226510055,,,Al Mosheh Shule of Positive Ed,Al Mosheh Shule of Positive Ed,1931 PAGE ST,19121,(215) 765-6462,Open,Elem/Middle,K-4,4,Private,Private
+-75.149268406524271,39.991810123134414,450,326510060,,,Hope Partnership for Education,Hope Partnership for Education,2601 N 11th St,19133,215-232-5410,Open,Middle/High,5-12,51,Private,Private
+-75.141434089995371,39.988890504572694,451,226519812,,,Tabernacle Academy,Tabernacle Acad,506 W CUMBERLAND ST,19133,(215) 423-1758,Open,,,22,Private,Private
+-75.167970672535418,39.963721612469797,452,226510024,,,Spring Garden Academy,Spring Garden Acad,1801 SPRING GARDEN ST,19130,(215)563-9192,Open,Pre-school,Preschool,30,Private,Private
+-75.169384962915217,39.95272122927706,453,300512650,,,Kinder Care Learning Center,Kinder Care Lrn Ctr,1700-40 MARKET ST,19103,(215) 563-9499,Open,Pre-school,Preschool,5,Private,Private
+-75.162471209540485,39.948644034532649,454,300518760,,,Student Education Center Delaware Valley High School CC,Student Ed Ctr DVHS,204-06 S 13TH ST,19107,(215) 732-5060,Open,High School,9-12,84,Private,Private
+-75.161828128198437,39.941922493939678,455,226510006,,,New Visions Learning Center,New Visions Lrn Ctr,711-15 S 12TH ST,19147,(215) 922-6691,Open,Elementary School,pre K-4,45,Private,Private
+-75.15907136746624,39.942235186334571,456,300511820,,,Beginnings Learning Center,Beginnings Learning Ctr,620 S 10TH ST,19147,(215) 627-3668,Open,Pre-K,pre K,27,Private,Private
+-75.151048991865707,39.937554432419063,457,300518275,,,Settlement Music School,Settlement Music Sch,414-28 QUEEN ST,19147,(215) 320-2670,Open,Ungraded,Ungraded,83,Private,Private
+-75.208218802177342,39.948818967554907,458,226511232,,,Jubilee School,Jubilee School,4211 CHESTER AVE,19104,(215) 387-7592,Open,Elementary School,pre K-6,54,Private,Private
+-75.234452279871064,39.946853221616905,459,226510040,,,Nelsons Academy,Nelsons Academy,5520 BALTIMORE AVE,19143,215-476-7116,Open,Kindergarten,pre K-K,50,Private,Private
+-75.187913096557423,39.963683359830519,460,300514670,,,Caring Center,Caring Center,3101-11 SPRING GARDEN ST,19104,(215) 386-8245,Open,Pre-K,pre K,35,Private,Private
+-75.194351769520708,39.96405325908794,461,300516020,,,Montessori Genesis II,Montessori Genesis II,3529 HAVERFORD AVE,19104,215-387-2078,Open,Elementary School,pre K-4,29,Private,Private
+-75.165037148820005,40.029863489100912,462,226510059,,,Islamic Learning Tree Academy,Islamic Learning Tree Acad,5044 Germantown Avenue,19144,(215)758-5418,Open,Elementary School,pre K-5,3,Private,Private
+-75.217948476367283,39.961735575794897,463,226514112,,,Mill Creek School,Mill Creek Sch,111 N 49TH ST,19139,215-471-4900 ,Open,High School,9-12,50,Private,Private
+-75.225238805301515,39.956788665205188,464,226510052,,,Ijoba Shule,Ijoba Shule,201 S 52ND ST,19139,(215) 747-5737,Open,Elem/Middle,Pre K-7,5,Private,Private
+-75.225587176740817,39.948034126936044,465,226510044,,,Emmanuel Christian Learning Center,Emmanuel Christian Lrn Ctr,5103 BALTIMORE AVE,19143,(215) 220-0923,Open,Elementary School,pre K-2,2,Private,Private
+-75.244737688650801,39.969628364121206,466,370511710,,,Creative Minds & Each One Teach One Child Care Center,Creative Minds Child Care Ctr,427-35 N 63RD ST,19151,(215) 473-4472,Open,Pre-K,pre K,15,Private,Private
+-75.245246019783792,39.975729413846302,467,226510074,,,Nur Academy,Nur Acad,805 N 63RD ST,19151,(215) 519-9627,Open,Elementary School,K-5,26,Private,Private
+-75.246622359504428,39.983294679366431,468,226510039,,,63rd Street Multicultural Academy of Academic Excellence,63rd St Multicultural Acad.,1141 N 63RD ST,19151,(215)220-0031,Open,Elem/Mid/High,pre K-12,94,Private,Private
+-75.23272041231597,39.92713495571671,469,226510069,,,Rising Stars Christian Academy,Rising Stars Christian Acad,6327 WOODLAND AVE,19142,(215) 724-4400,Open,Elementary School,K-1,20,Private,Private
+-75.228005905798199,39.925610542829034,470,226511242,,,Legacy Christian Academy,Legacy Christian Acad,6208-10 GRAYS AVE,19142,(215) 397-4011,Open,Elem/Middle,Pre K-7,45,Private,Private
+-75.242891852712589,39.919942989072489,471,226510051,,,Individual Assessment Manager Resource Academy,Individual Assessment Manager Resource Acad,7035 WOODLAND AVE,19142,(215) 729-0374,Open,Special Center,Ungraded,40,Private,Private
+-75.245513105660905,39.917208677580348,472,226510022,,,Mount Sinai Christian Academy,Mount Sinai Christian Acad,7282-86 WOODLAND AVE,19142,(215) 937-0417,Open,Elementary School,K-5,0,Private,Private
+-75.18833493449597,39.93249484937764,473,226510050,,,Miracle Temple Christian Academy,Miracle Temple Christian Acad,2600 TASKER ST,19145,(215) 755-3680,Open,Ungraded,Ungraded,11,Private,Private
+-75.173779615626032,39.9350707166424,474,226510012,,,Twenty-first Century Christian Academy,21 Century Christian Acad,1253-55 S 18TH ST,19146,(610)812-5166 ,Open,Pre-school,Preschool,0,Private,Private
+-75.172740100262885,39.927010295038272,475,226510009,,,True Gospel Tabernacle Learning Center,True Gospel Tabernacle Lrn Ctr,1900 S 16TH ST,19145,(215) 334-3343,Open,Pre-school,Preschool,43,Private,Private
+-75.177623114518596,39.922355089988052,476,226519632,,,Trinity Christian School,Trinity Christian Sch,2300-34 S 18TH ST,19145,(215) 334-6657,Open,Preschool,Pre-K,14,Private,Private
+-75.097497322072982,40.048488692459209,477,,,3404,Tacony Academy CS (Annex),Tacony Acad CS (Annex),6238 Rising Sun Ave,19111,267-388-8656,Open,High School,9-12,,Charter,Charter
+-75.138553893382536,40.029427871140797,478,126519476,8206,7210,Birney Preparatory Academy,Birney,900 West Lindley Ave.,19141,(215)456-3000,Open,Elem/Middle,K-8,728,Charter,Charter
+-75.1742733665602,40.032021088952838,479,300517000,,,Pennsylvania School for the Deaf,Pennsylvania School for the Deaf,100-52 W SCHOOL HOUSE LA,19144,(215) 951-4700,Open,Elem/Mid/High,pre K-12,190,Private,Private
+-75.25024360252452,39.982830132036682,480,300516590,,,Overbrook School for Blind,Overbrook Sch for Blind,6333 MALVERN AVE,19151,(215) 877-0313,Open,Elem/Mid/High,pre K-12,197,Private,Private
+-75.249569620236016,39.982002575400344,481,,,,Overbrook School for Blind (Annex),Overbrook Sch for Blind (Annex),6332 Malvern Ave,19151,215-877-0313,Open,Elem/Mid/High,pre K-12,,Private,Private
+-75.171730566904813,39.973871609509615,482,226511852,,,Girard College,Girard College,2035 S COLLEGE AVE,19121, (215) 787-2600,Open,Elem/Mid/High,1-12,465,Private,Private
+-75.206754006675354,39.950031204829948,483,226515832,,,The City School at Spruce Hill,The City School at Spruce Hill,4115 Baltimore Avenue,19104,(215) 382-7839,Open,Elementary School,K-5,171,Private,Private
+-75.21340755620281,39.969754194938005,484,226511172,,,Cockrell Christian School,Cockrell Christian Sch,4512-16 LANCASTER AVE,19131,(215) 879-2628,Open,Elem/Middle,K-8,54,Private,Private
+-75.224618476905675,39.938770800210278,485,226511492,,,Evelyn Graves Christian Academy,Evelyn Graves Christian Acad,5501 Chester Ave,19143,215-727-7795,Open,Elem/Mid/High,pre K-12,27,Private,Private
+-75.227419792858782,39.935170837529654,486,300512620,,,Cornerstone Christian Academy,Cornerstone Christian Acad,1939 S 58TH ST,19143,215.724.6858,Open,Elem/Middle,K-8,202,Private,Private
+-75.177499149308744,40.024749763108083,487,226511372,,,Eagles Nest Christian School,Eagles Nest Christian Sch,501 W KING ST,19144,(215) 848-2300,Open,Elem/Mid/High,K-8,36,Private,Private
+-75.137765567956663,40.006448038118791,488,226511552,,,Faith Tabernacle School,Faith Tabernacle Sch,3611 N RANDOLPH ST,19140,(215) 221-0909,Open,Elem/Mid/High,1-12,163,Private,Private
+-75.232978835784337,39.990412173161225,489,,,6955,Camelot Therapeutic Day School of Wynnefield,Camelot @ Wynnefield,2251 N 54th St,19131,215-397-4403,Open,Remedial Discipline,6-12,46,District,District
+-75.232379920003169,39.992127094166278,490,300519410,,,Woodbine Academy Inc,Woodbine Acad,5337 WYNNEFIELD AVE,19131,(215) 878-1140,Open,Elementary School,K-6,68,Private,Private
+-75.2313597161899,39.992114686941669,491,226512842,,,Jameson Christian Academy,Jameson Christian Acad,5301 WYNNEFIELD AVE,19131,(215) 477-7777,Open,Elem/Mid/High,K-12,18,Private,Private
+-75.141409713674861,39.973856071357623,492,226510132,,,Al-Aqsa Islamic Academy,Al-Aqsa Islamic Academy,1501-11 GERMANTOWN AVE,19122,215) 765-2743,Open,Elem/Mid/High,pre K-10,266,Private,Private
+-75.18667838683389,40.043993185084986,493,226510682,,,Blair Christian Academy & Preschool,Blair Christian Acad & Presch,212-20 W UPSAL ST,19119,(215) 438-6557,Open,Elem/Middle,pre K-8,54,Private,Private
+-75.017310558083153,40.129738649453934,494,226510732,,,Calvary Christian Academy,Calvary Christian Acad,13500 Philmont Ave,19116,215-969-1579,Open,Elem/Mid/High,pre K-12,936,Private,Private
+-75.178174557056963,39.975600066083501,495,226510932,,,Celestial Christian Academy,Celestial Christian Acad,2534 W THOMPSON ST,19121,(215) 232-5863,Open,Elem/Middle,pre K-8,33,Private,Private
+-75.267813554045091,39.97897215774006,496,226511052,,,Cornerstone High School of Chalutzim Academy,Cornerstone HS of Chalutzim Acad,7501 HAVERFORD AVE,19151,(215) 477-4443,Open,High School,9-12,29,Private,Private
+-75.141943614330287,40.020958881997608,497,226512022,,,Harold O Davis Christian School,Harold O Davis Christian Sch,1001 W WINGOHOCKING ST,19140,(610) 642-3020,Open,Elem/Mid/High,pre K-12,34,Private,Private
+-75.117029989878759,40.030647694860512,498,226512732,,,International Christian High School,International Christian HS,413 E TABOR RD,19120,(215)455-9334,Open,High School,9-12,116,Private,Private
+-75.039186460670663,40.080445296768254,499,300514330,,,Politz Hebrew Academy,Politz Hebrew Acad,9229 OLD BUSTLETON AVE,19115,(215) 969-5960,Open,Elem/Middle,pre K-8,329,Private,Private
+-75.139028347489912,39.973343902248175,500,226510023,,,LaSalle Academy,LaSalle Acad,1432-36 N 02ND ST,19122,(215) 739-5804,Open,Elem/Middle,3-8,90,Private,Private
+-75.214968118071511,39.971103740835744,501,226515392,,,Quba Institute of Arabic & Islamic Studies,Quba Ins of Arabic & Islamic Studies,4637 LANCASTER AVE,19131,(215) 473-8589,Open,Elem/Middle,pre K-8,68,Private,Private
+-75.045051209103875,40.099826186118605,502,226515872,,,Shaare Shamayim-Beth Judah Kindergarten,Shaare Shamayim-Beth Judah Kdg,9768 VERREE RD,19115,215-677-1600,Open,Kindergarten,Kindergarten,18,Private,Private
+-75.248264347544563,39.98980408908978,503,226519542,,,Talmudical Yeshiva of Philadelphia,Talmudical Yeshiva of Phila,6055-63 DREXEL RD,19131,(215) 477-1000,Open,High School,9-12,112,Private,Private
+-75.168039571868448,39.921301547041317,504,226514095,,,City Kids,City Kids,2311 S 13th St,19148,215-334-7440,Open,Kindergarten,pre K-K,15,Private,Private
+-75.247217965243379,39.985531230318088,505,226510020,,,New Life Alternatives Christian Academy,New Life Alt Christian Acad,1993-95 N 63RD St,19151,(215) 877-3440,Open,Elementary School,K-4,44,Private,Private
+-75.090144017123123,40.054814555287763,506,226511642,,,First Century Gospel School,First Century Gospel Sch,6807 RISING SUN AVE,19111,(215) 742-6615,Open,Elem/Mid/High,1-10,0,Private,Private
+-75.140254568971713,40.055464768652271,507,226512032,,,Hope Church School,Hope Church Sch,6707 OLD YORK RD,19126,(215) 927-7770,Open,Elem/Mid/High,K-12,120,Private,Private
+-75.137304558461494,40.018654646921711,508,226512672,,,Hunting Park Christian Academy,Hunting Park Christian Acad,601 W CAYUGA ST,19140,(215) 324-1050,Open,Elem/Middle,pre K-8,182,Private,Private
+-75.15714372530401,40.00823428394709,509,,,,Revival Hill Christian Academy,Revival Hill Christian Academy,1716 W Venango Street,19140,(215) 229-3646,Open,High School,9-12,,Private,Private
+-75.169453796366952,39.94699546140474,510,226511132,,,The City School,The City School,315 S 17TH ST,19103,(215) 731-1930,Open,High School,9-12,99,Private,Private
+-75.214997521103811,40.076685734939879,511,226514122,,,Crefeld School,Crefeld School,8836 CREFELD ST,19118,(215) 242-5545,Open,Middle/High,7-12,96,Private,Private
+-75.082537299703915,40.061085921273452,512,226515382,,,Immanuel Lutheran School,Immanuel Lutheran Sch,1013 COTTMAN AVE,19111,(215) 725-7265,Open,Elem/Middle,pre K-8,147,Private,Private
+-75.078014039830833,40.058622173987082,513,226514492,,,Northeast Preparatory School,Northeast Prep Sch,1309 COTTMAN AVE,19111,215-342-5500,Open,High School,9-12,0,Private,Private
+-75.028799348815753,40.040788165086951,514,226512042,,,Holmesburg Christian Academy,Holmesburg Christian Acad,7923 FRANKFORD AVE,19136,(215) 335-4323,Open,Elem/Middle,pre K-8,156,Private,Private
+-75.172146737530198,40.032506522415851,515,226511702,,,Germantown Friends School,Germantown Friends Sch,31 W Coulter St,19144,(215) 951-2300,Open,Elem/Mid/High,K-12,855,Private,Private
+-75.174577968888386,40.033256024476891,516,226511952,,,Greene Street Friends School,Greene Street Friends Sch,5511 GREENE ST,19144,(215) 438-7545,Open,Elem/Middle,pre K-8,230,Private,Private
+-75.14929909616275,40.020497432554954,517,226513580,,,Philadelphia Christian Academy,Phila Christian Acad,4400 N Broad St,19140,(215) 324-3775,Open,Elem/Middle,K-8,113,Private,Private
+-75.167061936206892,39.956473904319104,518,226511652,,,Friends Select School,Friends Select Sch,3 BENJ FRANKLIN PKY,19103,215-561-5900,Open,Elem/Mid/High,pre K-12,551,Private,Private
+-75.175345547803545,39.956098622913849,519,300513960,,,Greene Towne School Inc,Greene Towne Montessori School,2119-21 ARCH ST,19103,215-563-6368,Open,Kindergarten,pre K-K,128,Private,Private
+-75.242874998821904,39.954313413653367,520,226513572,,,Philadelphia Christian Academy,Phila Christian Acad,6007-09 LARCHWOOD AVE,19143,215-474-4530,Open,Elem/Middle,pre K-8,52,Private,Private
+-75.211400605038961,39.948602403856086,521,300514200,,,HMS School for Children w/Cerebral Palsy,HMS Sch for Children w/Cerebral Palsy,4400 BALTIMORE AVE,19104,(215) 222-2566,Open,Elem/Mid/High,pre K-12,57,Private,Private
+-75.181783472823014,39.946888898439617,522,226515462,,,Philadelphia School,Phila School,2501-29 LOMBARD ST,19146,(215) 545-5323,Open,Elem/Middle,pre K-8,387,Private,Private
+-75.12674568719801,39.984531328015059,523,126515001,7851,5510,"Kensington Intern Business, Finance & Entrep",Kensington Business Sch,2501 Coral St,19125,291-4700,Open,High School,9-12,366,District,District
+-75.126707359892208,39.984478542538753,524,126515001,8143,5600,Kensington Urban Education Academy,Kensington Urban Ed,2501 Coral St,19125,291-5173,Open,High School,9-12,351,District,District
+-75.267419273410752,39.975619363413323,525,126515001,7810,4320,Lamberton Robert High School,Lamberton Robert HS,7501 Woodbine Ave,19151,581-5650,Open,High School,9-12,195,District,District
+-75.210676668036996,39.96937385943049,526,126515001,8121,1450,Philadelphia Learning Academy South,Phila Learning Acad,4300 Westminster Ave,19104,581-5530,Open,High School,9-12,226,District,District
+-75.181175705274285,40.024584222143787,527,226510028,,,Cedar Ridge Academy,Cedar Ridge,5450 Wissahickon Ave.,19144,(215)490-5723,Open,High School,9-12,0,Private,Private
+-75.150633465944153,39.947381196905702,528,326510174,,,"Chesterbrook Academy
+",Chesterbrook Acad,510 Walnut Street,19106,(215)592-8257,Open,Pre-school,Preschool,,Private,Private
+-75.15946754930043,40.039608635393733,529,326510169,,,Clarke Schools for Hearing and Speech,Clarke PA,625 Wister Street,19144,(610)525-9600,Open,Pre-school,Preschool,,Private,Private
+-75.165131052724007,39.988716654902532,530,226510085,,,Computer Kidz Christian Academy,Computer Kidz,2243-57 N. 20th Street,19132,(215)235-1230,Open,Pre-school,Preschool,12,Private,Private
+-75.146386095247905,40.032528046468421,531,226510080,,,Cristo Rey Philadelphia High School,Cristo Rey Phila HS,5218 N. Broad Street,19141,(215)219-3943,Open,High School,9-12,125,Private,Private
+-75.189280753059464,40.058862814145975,532,226510088,,,Education Nation Christian Academy,Education Nation Christian Acad,13 East Mount Pleasant Avenue,19119,(267)408-1209,Open,,,,Private,Private
+-75.167263557634996,40.055578353783879,533,300513890,,,Green Tree School,Green Tree,1196 E Washington Lane,19138,(215) 866-0200,Open,Special Center,Ungraded,,Private,Private
+-75.197961397636547,39.955696027928568,534,326510172,,,"Hildebrandt Learning Center, Phila Cathedral Early Leaning Ctr",Hildebrandt Lrn Ctr,19 S 38th Street,19104,(267)941-1600,Open,Pre-school,Preschool,,Private,Private
+-75.222000392174195,40.002671266615422,535,326510078,,,Huntington Learning Center,Huntington Lrn Ctr,4514-D City Ave,19131,(610)726-9930,Open,Tutoring,Ungraded,,Private,Private
+-75.230077727142003,39.991312214864145,536,226510083,,,"In The Beginning, Inc.",In The Beginning,5200 Wynnefield Avenue,19131,(215) 878-4034,Open,Kindergarten,pre K-K,,Private,Private
+-75.150620926238631,40.048351016001035,537,326510171,,,Ogontz Academy,Ogontz Acad,6149 Ogontz Ave,19141,(215)927-5437,Open,Kindergarten,Kindergarten,7,Private,Private
+-75.115382181865883,40.027302879828319,538,226510081,,,Olney Christian School,Olney Christian Sch,425 E. Roosevelt Blvd,19120,(215)324-1186,Open,Elementary School,K-2,29,Private,Private
+-75.16761180925063,39.922574102320731,539,226511502,,,Our Lady of Hope Regional Catholic School,Our Lady of Hope,1248 Jackson Street,19148,(215)467-5385,Open,Elem/Middle,K-8,378,Private,Archdiocese
+-75.274219988844777,39.977146688557461,540,300516550,,,Overbrook Learning Center,Overbrook Lrn Ctr,7708 City Line Ave,19151,(215)877-8801,Open,Tutoring,Ungraded,,Private,Private
+-75.157291570026786,39.957561732311241,541,226510086,,,Philadelphia Classical School,Phila Classical Sch,1101 Vine Street,19146,(412)915-5510,Open,Elem/Mid/High,K-12,,Private,Private
+-75.176166291116971,39.94153997384285,542,226510071,,,Philadelphia Free School,Phila Free Sch,2001 Christian Street,19146,(215)218-9586,Open,Elem/Mid/High,pre K-12,,Private,Private
+-75.07544875577527,40.021659631717661,543,226500000,,,School of Faith in God,Faith in God,1680-82 Bridge Street,19124,(215)833-7613,Open,Elem/Mid/High,K-12,,Private,Private
+-75.183697188649163,40.006745703144588,544,226510067,,,Smart Center Academy,Smart Centera Acad,3301-33 W. Westmoreland Street,19129,(610)742-2804,Open,Pre-school,Preschool,,Private,Private
+-75.16104775875074,39.927578398580927,545,226519042,,,St Anthony of Padua Regional Catholic School,St Anthony of Padua,913 Pierce Street,19148,(215)468-0353,Open,Elem/Middle,pre K-8,309,Private,Archdiocese
+-75.151303387234407,39.948006504794193,546,300518660,,,"Sylvan Learning Center
+",Sylvan Lrn Ctr,601 Walnut St,19106,(215)238-8380,Open,Tutoring,Ungraded,,Private,Private
+-75.061229003633656,40.056780112643693,547,226510054,,,The Gan,The Gan,7622 Castor Avenue,19111,(215)745-5080,Open,Kindergarten,Kindergarten,20,Private,Private
+-75.143925637796926,40.057648043537611,548,326510173,,,The Westwood School,Westwood,6801 North 16th Street,19126,(267)707-6142,Open,Elementary School,pre K-3,,Private,Private
+-75.211911249533571,39.955532301146569,549,226519094,,,The City School at Walnut Street,The City School at Walnut Street,4501 Walnut Street,19139,(215) 382-7839,Open,Middle School,6-8,,Private,Private
+-75.218635562770899,39.955171763999701,550,126515001,8328,8560,The Workshop School,The Workshop School,221 S Hanson St,19139,(215) 471-2948,Open,High School,9-12,154,District,District
