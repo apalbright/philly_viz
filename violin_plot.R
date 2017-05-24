@@ -1,6 +1,5 @@
 #R Script for Comparing Scores Across Philly Schools: Charters and District Schools
 #Using Philly Open Data!
-#R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
 #Made by Alex Albright (thelittledataset.com)
 #All coding/interpretation errors are my own
 #Feel free to contact me with questions or concerns: alex.p.albright@gmail.com
